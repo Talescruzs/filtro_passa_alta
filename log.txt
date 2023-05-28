@@ -1,0 +1,4006 @@
+frequancia de corte e: 1061.032953945969 hertz 
+
+frequencia =  0 
+ganho G = 0.0 
+nao e possivel tirar os decibeis deste ganho
+
+frequencia =  10 
+ganho G = 0.009424359403918175 
+Ganho em decibeis = -40.51496320291757
+
+frequencia =  20 
+ganho G = 0.018846208135746553 
+Ganho em decibeis = -34.49552033768074
+
+frequencia =  30 
+ganho G = 0.028263038866255592 
+Ganho em decibeis = -30.975622885210996
+
+frequencia =  40 
+ganho G = 0.03767235094155701 
+Ganho em decibeis = -28.47954553642466
+
+frequencia =  50 
+ganho G = 0.047071653694884225 
+Ganho em decibeis = -26.544810880714294
+
+frequencia =  60 
+ganho G = 0.056458469727466334 
+Ganho em decibeis = -24.965417946355046
+
+frequencia =  70 
+ganho G = 0.06583033814846176 
+Ganho em decibeis = -23.631478281529578
+
+frequencia =  80 
+ganho G = 0.07518481776414417 
+Ganho em decibeis = -22.477396971926858
+
+frequencia =  90 
+ganho G = 0.08451949020681315 
+Ganho em decibeis = -21.460862622606424
+
+frequencia =  100 
+ganho G = 0.09383196299423327 
+Ganho em decibeis = -20.552983960036038
+
+frequencia =  110 
+ganho G = 0.10311987251078146 
+Ganho em decibeis = -19.73315265163037
+
+frequencia =  120 
+ganho G = 0.11238088690190716 
+Ganho em decibeis = -18.98615089613322
+
+frequencia =  130 
+ganho G = 0.12161270887397227 
+Ganho em decibeis = -18.30042075366187
+
+frequencia =  140 
+ganho G = 0.13081307839203835 
+Ganho em decibeis = -17.666976681465215
+
+frequencia =  150 
+ganho G = 0.13997977526870328 
+Ganho em decibeis = -17.07869416124996
+
+frequencia =  160 
+ganho G = 0.14911062163765088 
+Ganho em decibeis = -16.52982838455245
+
+frequencia =  170 
+ganho G = 0.15820348430616424 
+Ganho em decibeis = -16.015679114835542
+
+frequencia =  180 
+ganho G = 0.1672562769814599 
+Ganho em decibeis = -15.532351491261725
+
+frequencia =  190 
+ganho G = 0.17626696236632078 
+Ganho em decibeis = -15.076581593666793
+
+frequencia =  200 
+ganho G = 0.18523355412013803 
+Ganho em decibeis = -14.645606805642604
+
+frequencia =  210 
+ganho G = 0.19415411868210963 
+Ganho em decibeis = -14.237067842565693
+
+frequencia =  220 
+ganho G = 0.2030267769539813 
+Ganho em decibeis = -13.84893359479488
+
+frequencia =  230 
+ganho G = 0.21184970584035312 
+Ganho em decibeis = -13.479442693868764
+
+frequencia =  240 
+ganho G = 0.2206211396452011 
+Ganho em decibeis = -13.127057526819714
+
+frequencia =  250 
+ganho G = 0.229339371323883 
+Ganho em decibeis = -12.790427646707032
+
+frequencia =  260 
+ganho G = 0.23800275359049644 
+Ganho em decibeis = -12.468360366244536
+
+frequencia =  270 
+ganho G = 0.24660969988104567 
+Ganho em decibeis = -12.159796906633389
+
+frequencia =  280 
+ganho G = 0.2551586851734288 
+Ganho em decibeis = -11.863792888496736
+
+frequencia =  290 
+ganho G = 0.2636482466658018 
+Ganho em decibeis = -11.579502250041138
+
+frequencia =  300 
+ganho G = 0.27207698431537825 
+Ganho em decibeis = -11.306163894841635
+
+frequencia =  310 
+ganho G = 0.28044356124021086 
+Ganho em decibeis = -11.043090531876743
+
+frequencia =  320 
+ganho G = 0.2887467039869451 
+Ganho em decibeis = -10.789659289940703
+
+frequencia =  330 
+ganho G = 0.2969852026679528 
+Ganho em decibeis = -10.545303778622115
+
+frequencia =  340 
+ganho G = 0.3051579109716384 
+Ganho em decibeis = -10.30950733657641
+
+frequencia =  350 
+ganho G = 0.3132637460500516 
+Ganho em decibeis = -10.081797260454064
+
+frequencia =  360 
+ganho G = 0.3213016882882588 
+Ganho em decibeis = -9.861739848611823
+
+frequencia =  370 
+ganho G = 0.32927078096019363 
+Ganho em decibeis = -9.648936125559576
+
+frequencia =  380 
+ganho G = 0.3371701297759543 
+Ganho em decibeis = -9.44301813812747
+
+frequencia =  390 
+ganho G = 0.3449989023257115 
+Ganho em decibeis = -9.243645734166098
+
+frequencia =  400 
+ganho G = 0.3527563274255682 
+Ganho em decibeis = -9.050503750402779
+
+frequencia =  410 
+ganho G = 0.3604416943708388 
+Ganho em decibeis = -8.863299548763266
+
+frequencia =  420 
+ganho G = 0.36805435210232695 
+Ganho em decibeis = -8.681760850707676
+
+frequencia =  430 
+ganho G = 0.3755937082912406 
+Ganho em decibeis = -8.505633827441322
+
+frequencia =  440 
+ganho G = 0.38305922834843215 
+Ganho em decibeis = -8.33468141064358
+
+frequencia =  450 
+ganho G = 0.39045043436365373 
+Ganho em decibeis = -8.168681793921124
+
+frequencia =  460 
+ganho G = 0.39776690398050807 
+Ganho em decibeis = -8.007427099776596
+
+frequencia =  470 
+ganho G = 0.4050082692127244 
+Ganho em decibeis = -7.850722190679792
+
+frequencia =  480 
+ganho G = 0.41217421520733144 
+Ganho em decibeis = -7.698383605984926
+
+frequencia =  490 
+ganho G = 0.41926447896020197 
+Ganho em decibeis = -7.55023860907365
+
+frequencia =  500 
+ganho G = 0.4262788479893414 
+Ganho em decibeis = -7.406124331313357
+
+frequencia =  510 
+ganho G = 0.43321715897116225 
+Ganho em decibeis = -7.265887001280249
+
+frequencia =  520 
+ganho G = 0.4400792963448442 
+Ganho em decibeis = -7.129381249267772
+
+frequencia =  530 
+ganho G = 0.44686519088972093 
+Ganho em decibeis = -6.996469478432701
+
+frequencia =  540 
+ganho G = 0.4535748182804651 
+Ganho em decibeis = -6.867021295063813
+
+frequencia =  550 
+ganho G = 0.4602081976246619 
+Ganho em decibeis = -6.740912991424574
+
+frequencia =  560 
+ganho G = 0.4667653899871701 
+Ganho em decibeis = -6.6180270754484525
+
+frequencia =  570 
+ganho G = 0.47324649690547177 
+Ganho em decibeis = -6.498251842275557
+
+frequencia =  580 
+ganho G = 0.4796516589000113 
+Ganho em decibeis = -6.381480983230716
+
+frequencia =  590 
+ganho G = 0.4859810539833101 
+Ganho em decibeis = -6.267613228370922
+
+frequencia =  600 
+ganho G = 0.4922348961714408 
+Ganho em decibeis = -6.156552019186806
+
+frequencia =  610 
+ganho G = 0.4984134340012251 
+Ganho em decibeis = -6.048205208439469
+
+frequencia =  620 
+ganho G = 0.5045169490563117 
+Ganho em decibeis = -5.942484784458747
+
+frequencia =  630 
+ganho G = 0.5105457545050758 
+Ganho em decibeis = -5.839306617529843
+
+frequencia =  640 
+ganho G = 0.5165001936530744 
+Ganho em decibeis = -5.738590226258137
+
+frequencia =  650 
+ganho G = 0.5223806385125828 
+Ganho em decibeis = -5.640258562032257
+
+frequencia =  660 
+ganho G = 0.528187488391535 
+Ganho em decibeis = -5.544237809907608
+
+frequencia =  670 
+ganho G = 0.5339211685039909 
+Ganho em decibeis = -5.450457204410462
+
+frequencia =  680 
+ganho G = 0.5395821286040617 
+Ganho em decibeis = -5.358848858919316
+
+frequencia =  690 
+ganho G = 0.5451708416450327 
+Ganho em decibeis = -5.269347607418778
+
+frequencia =  700 
+ganho G = 0.5506878024652461 
+Ganho em decibeis = -5.181890857543512
+
+frequencia =  710 
+ganho G = 0.5561335265021251 
+Ganho em decibeis = -5.096418453938503
+
+frequencia =  720 
+ganho G = 0.5615085485355582 
+Ganho em decibeis = -5.0128725510581065
+
+frequencia =  730 
+ganho G = 0.5668134214616952 
+Ganho em decibeis = -4.9311974946121335
+
+frequencia =  740 
+ganho G = 0.5720487150980592 
+Ganho em decibeis = -4.8513397109435275
+
+frequencia =  750 
+ganho G = 0.577215015020727 
+Ganho em decibeis = -4.773247603690324
+
+frequencia =  760 
+ganho G = 0.5823129214341949 
+Ganho em decibeis = -4.6968714571454475
+
+frequencia =  770 
+ganho G = 0.5873430480744153 
+Ganho em decibeis = -4.6221633457823295
+
+frequencia =  780 
+ganho G = 0.5923060211453676 
+Ganho em decibeis = -4.549077049463197
+
+frequencia =  790 
+ganho G = 0.5972024782894072 
+Ganho em decibeis = -4.47756797389065
+
+frequencia =  800 
+ganho G = 0.6020330675915343 
+Ganho em decibeis = -4.407593075902513
+
+frequencia =  810 
+ganho G = 0.6067984466176196 
+Ganho em decibeis = -4.33911079324535
+
+frequencia =  820 
+ganho G = 0.6114992814865303 
+Ganho em decibeis = -4.272080978494008
+
+frequencia =  830 
+ganho G = 0.6161362459760177 
+Ganho em decibeis = -4.206464836813211
+
+frequencia =  840 
+ganho G = 0.6207100206621431 
+Ganho em decibeis = -4.142224867283353
+
+frequencia =  850 
+ganho G = 0.6252212920919497 
+Ganho em decibeis = -4.079324807536065
+
+frequencia =  860 
+ganho G = 0.6296707519890209 
+Ganho em decibeis = -4.017729581466384
+
+frequencia =  870 
+ganho G = 0.6340590964915024 
+Ganho em decibeis = -3.9574052498077457
+
+frequencia =  880 
+ganho G = 0.6383870254221173 
+Ganho em decibeis = -3.89831896337335
+
+frequencia =  890 
+ganho G = 0.6426552415896488 
+Ganho em decibeis = -3.8404389187834487
+
+frequencia =  900 
+ganho G = 0.6468644501213242 
+Ganho em decibeis = -3.783734316512508
+
+frequencia =  910 
+ganho G = 0.6510153578254971 
+Ganho em decibeis = -3.728175321103307
+
+frequencia =  920 
+ganho G = 0.6551086725839883 
+Ganho em decibeis = -3.6737330234070305
+
+frequencia =  930 
+ganho G = 0.6591451027734199 
+Ganho em decibeis = -3.6203794047193028
+
+frequencia =  940 
+ganho G = 0.6631253567148517 
+Ganho em decibeis = -3.5680873026920574
+
+frequencia =  950 
+ganho G = 0.6670501421510062 
+Ganho em decibeis = -3.5168303789102753
+
+frequencia =  960 
+ganho G = 0.6709201657503558 
+Ganho em decibeis = -3.466583088030845
+
+frequencia =  970 
+ganho G = 0.6747361326373306 
+Ganho em decibeis = -3.4173206483884906
+
+frequencia =  980 
+ganho G = 0.6784987459478922 
+Ganho em decibeis = -3.3690190139806453
+
+frequencia =  990 
+ganho G = 0.6822087064097196 
+Ganho em decibeis = -3.3216548477494863
+
+frequencia =  1000 
+ganho G = 0.6858667119462392 
+Ganho em decibeis = -3.275205496085304
+
+frequencia =  1010 
+ganho G = 0.6894734573037387 
+Ganho em decibeis = -3.2296489644806186
+
+frequencia =  1020 
+ganho G = 0.6930296337007982 
+Ganho em decibeis = -3.184963894269548
+
+frequencia =  1030 
+ganho G = 0.69653592849928 
+Ganho em decibeis = -3.141129540391316
+
+frequencia =  1040 
+ganho G = 0.6999930248961184 
+Ganho em decibeis = -3.0981257501211195
+
+frequencia =  1050 
+ganho G = 0.7034016016351625 
+Ganho em decibeis = -3.0559329427152977
+
+frequencia =  1060 
+ganho G = 0.7067623327383304 
+Ganho em decibeis = -3.0145320899213726
+
+frequencia =  1070 
+ganho G = 0.7100758872553408 
+Ganho em decibeis = -2.9739046973067906
+
+frequencia =  1080 
+ganho G = 0.7133429290313051 
+Ganho em decibeis = -2.9340327863631717
+
+frequencia =  1090 
+ganho G = 0.7165641164914688 
+Ganho em decibeis = -2.894898877345737
+
+frequencia =  1100 
+ganho G = 0.7197401024424064 
+Ganho em decibeis = -2.8564859728101073
+
+frequencia =  1110 
+ganho G = 0.7228715338889906 
+Ganho em decibeis = -2.81877754181108
+
+frequencia =  1120 
+ganho G = 0.7259590518664654 
+Ganho em decibeis = -2.781757504730205
+
+frequencia =  1130 
+ganho G = 0.7290032912869739 
+Ganho em decibeis = -2.7454102187010165
+
+frequencia =  1140 
+ganho G = 0.7320048807999034 
+Ganho em decibeis = -2.7097204636026944
+
+frequencia =  1150 
+ganho G = 0.734964442665428 
+Ganho em decibeis = -2.674673428594679
+
+frequencia =  1160 
+ganho G = 0.7378825926406462 
+Ganho em decibeis = -2.6402546991664066
+
+frequencia =  1170 
+ganho G = 0.740759939877725 
+Ganho em decibeis = -2.6064502446778626
+
+frequencia =  1180 
+ganho G = 0.743597086833485 
+Ganho em decibeis = -2.573246406368046
+
+frequencia =  1190 
+ganho G = 0.7463946291898683 
+Ganho em decibeis = -2.5406298858097873
+
+frequencia =  1200 
+ganho G = 0.7491531557847593 
+Ganho em decibeis = -2.5085877337905504
+
+frequencia =  1210 
+ganho G = 0.7518732485526362 
+Ganho em decibeis = -2.4771073396000416
+
+frequencia =  1220 
+ganho G = 0.7545554824745554 
+Ganho em decibeis = -2.4461764207064545
+
+frequencia =  1230 
+ganho G = 0.7572004255369815 
+Ganho em decibeis = -2.4157830128042517
+
+frequencia =  1240 
+ganho G = 0.7598086386989987 
+Ganho em decibeis = -2.385915460217228
+
+frequencia =  1250 
+ganho G = 0.7623806758674491 
+Ganho em decibeis = -2.3565624066415714
+
+frequencia =  1260 
+ganho G = 0.7649170838795679 
+Ganho em decibeis = -2.3277127862143328
+
+frequencia =  1270 
+ganho G = 0.7674184024926944 
+Ganho em decibeis = -2.2993558148935995
+
+frequencia =  1280 
+ganho G = 0.7698851643806571 
+Ganho em decibeis = -2.271480982137278
+
+frequencia =  1290 
+ganho G = 0.7723178951364468 
+Ganho em decibeis = -2.2440780428681366
+
+frequencia =  1300 
+ganho G = 0.7747171132808061 
+Ganho em decibeis = -2.217137009713331
+
+frequencia =  1310 
+ganho G = 0.7770833302763788 
+Ganho em decibeis = -2.1906481455072617
+
+frequencia =  1320 
+ganho G = 0.7794170505470769 
+Ganho em decibeis = -2.1646019560471492
+
+frequencia =  1330 
+ganho G = 0.7817187715023386 
+Ganho em decibeis = -2.138989183091231
+
+frequencia =  1340 
+ganho G = 0.783988983565962 
+Ganho em decibeis = -2.1138007975899877
+
+frequencia =  1350 
+ganho G = 0.7862281702092163 
+Ganho em decibeis = -2.0890279931412405
+
+frequencia =  1360 
+ganho G = 0.7884368079879405 
+Ganho em decibeis = -2.0646621796604396
+
+frequencia =  1370 
+ganho G = 0.7906153665833586 
+Ganho em decibeis = -2.040694977257804
+
+frequencia =  1380 
+ganho G = 0.7927643088463463 
+Ganho em decibeis = -2.0171182103144454
+
+frequencia =  1390 
+ganho G = 0.7948840908449003 
+Ganho em decibeis = -1.9939239017498867
+
+frequencia =  1400 
+ganho G = 0.7969751619145716 
+Ganho em decibeis = -1.9711042674737966
+
+frequencia =  1410 
+ganho G = 0.7990379647116361 
+Ganho em decibeis = -1.9486517110150345
+
+frequencia =  1420 
+ganho G = 0.801072935268784 
+Ganho em decibeis = -1.926558818321458
+
+frequencia =  1430 
+ganho G = 0.8030805030531243 
+Ganho em decibeis = -1.9048183527241798
+
+frequencia =  1440 
+ganho G = 0.8050610910263067 
+Ganho em decibeis = -1.8834232500602908
+
+frequencia =  1450 
+ganho G = 0.8070151157065757 
+Ganho em decibeis = -1.8623666139482786
+
+frequencia =  1460 
+ganho G = 0.808942987232579 
+Ganho em decibeis = -1.841641711210649
+
+frequencia =  1470 
+ganho G = 0.8108451094287625 
+Ganho em decibeis = -1.8212419674384892
+
+frequencia =  1480 
+ganho G = 0.8127218798721947 
+Ganho em decibeis = -1.8011609626929002
+
+frequencia =  1490 
+ganho G = 0.8145736899606653 
+Ganho em decibeis = -1.7813924273384953
+
+frequencia =  1500 
+ganho G = 0.8164009249819181 
+Ganho em decibeis = -1.7619302380043171
+
+frequencia =  1510 
+ganho G = 0.8182039641838851 
+Ganho em decibeis = -1.7427684136676913
+
+frequencia =  1520 
+ganho G = 0.8199831808457866 
+Ganho em decibeis = -1.7239011118568304
+
+frequencia =  1530 
+ganho G = 0.821738942349984 
+Ganho em decibeis = -1.705322624968021
+
+frequencia =  1540 
+ganho G = 0.8234716102544684 
+Ganho em decibeis = -1.6870273766934918
+
+frequencia =  1550 
+ganho G = 0.8251815403658741 
+Ganho em decibeis = -1.6690099185562217
+
+frequencia =  1560 
+ganho G = 0.8268690828129233 
+Ganho em decibeis = -1.6512649265479946
+
+frequencia =  1570 
+ganho G = 0.8285345821201967 
+Ganho em decibeis = -1.6337871978673004
+
+frequencia =  1580 
+ganho G = 0.8301783772821496 
+Ganho em decibeis = -1.6165716477536642
+
+frequencia =  1590 
+ganho G = 0.831800801837282 
+Ganho em decibeis = -1.599613306415233
+
+frequencia =  1600 
+ganho G = 0.8334021839423876 
+Ganho em decibeis = -1.582907316046498
+
+frequencia =  1610 
+ganho G = 0.8349828464468055 
+Ganho em decibeis = -1.5664489279331948
+
+frequencia =  1620 
+ganho G = 0.8365431069666053 
+Ganho em decibeis = -1.5502334996415006
+
+frequencia =  1630 
+ganho G = 0.838083277958641 
+Ganho em decibeis = -1.534256492288778
+
+frequencia =  1640 
+ganho G = 0.8396036667944123 
+Ganho em decibeis = -1.5185134678932157
+
+frequencia =  1650 
+ganho G = 0.8411045758336765 
+Ganho em decibeis = -1.5030000867997981
+
+frequencia =  1660 
+ganho G = 0.842586302497758 
+Ganho em decibeis = -1.4877121051801496
+
+frequencia =  1670 
+ganho G = 0.8440491393425076 
+Ganho em decibeis = -1.4726453726038757
+
+frequencia =  1680 
+ganho G = 0.8454933741308632 
+Ganho em decibeis = -1.4577958296791171
+
+frequencia =  1690 
+ganho G = 0.8469192899049709 
+Ganho em decibeis = -1.4431595057601276
+
+frequencia =  1700 
+ganho G = 0.8483271650578291 
+Ganho em decibeis = -1.4287325167197031
+
+frequencia =  1710 
+ganho G = 0.8497172734044154 
+Ganho em decibeis = -1.4145110627844817
+
+frequencia =  1720 
+ganho G = 0.851089884252266 
+Ganho em decibeis = -1.40049142643108
+
+frequencia =  1730 
+ganho G = 0.8524452624714763 
+Ganho em decibeis = -1.3866699703411838
+
+frequencia =  1740 
+ganho G = 0.8537836685640932 
+Ganho em decibeis = -1.3730431354137684
+
+frequencia =  1750 
+ganho G = 0.8551053587328754 
+Ganho em decibeis = -1.359607438832625
+
+frequencia =  1760 
+ganho G = 0.8564105849493963 
+Ganho em decibeis = -1.3463594721875458
+
+frequencia =  1770 
+ganho G = 0.85769959502147 
+Ganho em decibeis = -1.33329589964745
+
+frequencia =  1780 
+ganho G = 0.8589726326598802 
+Ganho em decibeis = -1.3204134561838945
+
+frequencia =  1790 
+ganho G = 0.8602299375443946 
+Ganho em decibeis = -1.3077089458434157
+
+frequencia =  1800 
+ganho G = 0.8614717453890499 
+Ganho em decibeis = -1.2951792400672
+
+frequencia =  1810 
+ganho G = 0.862698288006694 
+Ganho em decibeis = -1.2828212760566624
+
+frequencia =  1820 
+ganho G = 0.8639097933727726 
+Ganho em decibeis = -1.2706320551835237
+
+frequencia =  1830 
+ganho G = 0.865106485688349 
+Ganho em decibeis = -1.2586086414430695
+
+frequencia =  1840 
+ganho G = 0.8662885854423509 
+Ganho em decibeis = -1.246748159949247
+
+frequencia =  1850 
+ganho G = 0.8674563094730331 
+Ganho em decibeis = -1.2350477954703911
+
+frequencia =  1860 
+ganho G = 0.8686098710286514 
+Ganho em decibeis = -1.223504791004341
+
+frequencia =  1870 
+ganho G = 0.8697494798273422 
+Ganho em decibeis = -1.2121164463917742
+
+frequencia =  1880 
+ganho G = 0.8708753421162048 
+Ganho em decibeis = -1.2008801169666168
+
+frequencia =  1890 
+ganho G = 0.8719876607295798 
+Ganho em decibeis = -1.1897932122424646
+
+frequencia =  1900 
+ganho G = 0.873086635146527 
+Ganho em decibeis = -1.1788531946338996
+
+frequencia =  1910 
+ganho G = 0.8741724615474958 
+Ganho em decibeis = -1.16805757821173
+
+frequencia =  1920 
+ganho G = 0.8752453328701938 
+Ganho em decibeis = -1.1574039274911065
+
+frequencia =  1930 
+ganho G = 0.8763054388646477 
+Ganho em decibeis = -1.1468898562516043
+
+frequencia =  1940 
+ganho G = 0.8773529661474644 
+Ganho em decibeis = -1.1365130263882948
+
+frequencia =  1950 
+ganho G = 0.878388098255289 
+Ganho em decibeis = -1.1262711467929332
+
+frequencia =  1960 
+ganho G = 0.8794110156974655 
+Ganho em decibeis = -1.116161972264382
+
+frequencia =  1970 
+ganho G = 0.8804218960079029 
+Ganho em decibeis = -1.1061833024474168
+
+frequencia =  1980 
+ganho G = 0.8814209137961487 
+Ganho em decibeis = -1.0963329807991162
+
+frequencia =  1990 
+ganho G = 0.8824082407976783 
+Ganho em decibeis = -1.0866088935820142
+
+frequencia =  2000 
+ganho G = 0.883384045923399 
+Ganho em decibeis = -1.077008968883291
+
+frequencia =  2010 
+ganho G = 0.8843484953083817 
+Ganho em decibeis = -1.0675311756592007
+
+frequencia =  2020 
+ganho G = 0.8853017523598177 
+Ganho em decibeis = -1.058173522804084
+
+frequencia =  2030 
+ganho G = 0.8862439778042138 
+Ganho em decibeis = -1.0489340582432096
+
+frequencia =  2040 
+ganho G = 0.8871753297338294 
+Ganho em decibeis = -1.039810868048789
+
+frequencia =  2050 
+ganho G = 0.888095963652359 
+Ganho em decibeis = -1.0308020755785423
+
+frequencia =  2060 
+ganho G = 0.8890060325198741 
+Ganho em decibeis = -1.0219058406361223
+
+frequencia =  2070 
+ganho G = 0.8899056867970256 
+Ganho em decibeis = -1.0131203586528315
+
+frequencia =  2080 
+ganho G = 0.8907950744885185 
+Ganho em decibeis = -1.004443859890005
+
+frequencia =  2090 
+ganho G = 0.8916743411858641 
+Ganho em decibeis = -0.9958746086614928
+
+frequencia =  2100 
+ganho G = 0.8925436301094184 
+Ganho em decibeis = -0.9874109025756973
+
+frequencia =  2110 
+ganho G = 0.8934030821497152 
+Ganho em decibeis = -0.9790510717965938
+
+frequencia =  2120 
+ganho G = 0.894252835908103 
+Ganho em decibeis = -0.9707934783232185
+
+frequencia =  2130 
+ganho G = 0.8950930277366914 
+Ganho em decibeis = -0.9626365152871318
+
+frequencia =  2140 
+ganho G = 0.8959237917776189 
+Ganho em decibeis = -0.9545786062673316
+
+frequencia =  2150 
+ganho G = 0.8967452600016477 
+Ganho em decibeis = -0.9466182046221667
+
+frequencia =  2160 
+ganho G = 0.8975575622460968 
+Ganho em decibeis = -0.9387537928377525
+
+frequencia =  2170 
+ganho G = 0.8983608262521209 
+Ganho em decibeis = -0.9309838818924693
+
+frequencia =  2180 
+ganho G = 0.8991551777013432 
+Ganho em decibeis = -0.9233070106370799
+
+frequencia =  2190 
+ganho G = 0.899940740251853 
+Ganho em decibeis = -0.9157217451900602
+
+frequencia =  2200 
+ganho G = 0.9007176355735754 
+Ganho em decibeis = -0.9082266783477102
+
+frequencia =  2210 
+ganho G = 0.9014859833830224 
+Ganho em decibeis = -0.9008204290086694
+
+frequencia =  2220 
+ganho G = 0.9022459014774347 
+Ganho em decibeis = -0.8935016416124266
+
+frequencia =  2230 
+ganho G = 0.9029975057683222 
+Ganho em decibeis = -0.8862689855914634
+
+frequencia =  2240 
+ganho G = 0.9037409103144152 
+Ganho em decibeis = -0.8791211548366389
+
+frequencia =  2250 
+ganho G = 0.9044762273540294 
+Ganho em decibeis = -0.8720568671755089
+
+frequencia =  2260 
+ganho G = 0.9052035673368601 
+Ganho em decibeis = -0.8650748638631788
+
+frequencia =  2270 
+ganho G = 0.9059230389552094 
+Ganho em decibeis = -0.8581739090853967
+
+frequencia =  2280 
+ganho G = 0.906634749174658 
+Ganho em decibeis = -0.8513527894735434
+
+frequencia =  2290 
+ganho G = 0.9073388032641899 
+Ganho em decibeis = -0.8446103136312042
+
+frequencia =  2300 
+ganho G = 0.9080353048257773 
+Ganho em decibeis = -0.8379453116720249
+
+frequencia =  2310 
+ganho G = 0.9087243558234369 
+Ganho em decibeis = -0.8313566347685413
+
+frequencia =  2320 
+ganho G = 0.9094060566117633 
+Ganho em decibeis = -0.8248431547117068
+
+frequencia =  2330 
+ganho G = 0.9100805059639501 
+Ganho em decibeis = -0.8184037634808317
+
+frequencia =  2340 
+ganho G = 0.9107478010993063 
+Ganho em decibeis = -0.8120373728236552
+
+frequencia =  2350 
+ganho G = 0.9114080377102768 
+Ganho em decibeis = -0.8057429138462984
+
+frequencia =  2360 
+ganho G = 0.9120613099889747 
+Ganho em decibeis = -0.7995193366128253
+
+frequencia =  2370 
+ganho G = 0.912707710653234 
+Ganho em decibeis = -0.7933656097541815
+
+frequencia =  2380 
+ganho G = 0.9133473309721907 
+Ganho em decibeis = -0.7872807200862457
+
+frequencia =  2390 
+ganho G = 0.9139802607914002 
+Ganho em decibeis = -0.7812636722367811
+
+frequencia =  2400 
+ganho G = 0.9146065885575001 
+Ganho em decibeis = -0.7753134882810278
+
+frequencia =  2410 
+ganho G = 0.9152264013424237 
+Ganho em decibeis = -0.7694292073857527
+
+frequencia =  2420 
+ganho G = 0.9158397848671754 
+Ganho em decibeis = -0.7636098854614943
+
+frequencia =  2430 
+ganho G = 0.916446823525171 
+Ganho em decibeis = -0.7578545948228476
+
+frequencia =  2440 
+ganho G = 0.9170476004051571 
+Ganho em decibeis = -0.7521624238565139
+
+frequencia =  2450 
+ganho G = 0.9176421973137094 
+Ganho em decibeis = -0.7465324766969916
+
+frequencia =  2460 
+ganho G = 0.9182306947973238 
+Ganho em decibeis = -0.7409638729096591
+
+frequencia =  2470 
+ganho G = 0.9188131721641034 
+Ganho em decibeis = -0.7354557471810836
+
+frequencia =  2480 
+ganho G = 0.9193897075050508 
+Ganho em decibeis = -0.7300072490163779
+
+frequencia =  2490 
+ganho G = 0.9199603777149716 
+Ganho em decibeis = -0.7246175424434109
+
+frequencia =  2500 
+ganho G = 0.9205252585129964 
+Ganho em decibeis = -0.7192858057237221
+
+frequencia =  2510 
+ganho G = 0.9210844244627284 
+Ganho em decibeis = -0.7140112310699438
+
+frequencia =  2520 
+ganho G = 0.9216379489920237 
+Ganho em decibeis = -0.7087930243695912
+
+frequencia =  2530 
+ganho G = 0.9221859044124088 
+Ganho em decibeis = -0.7036304049150556
+
+frequencia =  2540 
+ganho G = 0.9227283619381459 
+Ganho em decibeis = -0.6985226051396315
+
+frequencia =  2550 
+ganho G = 0.9232653917049485 
+Ganho em decibeis = -0.6934688703594473
+
+frequencia =  2560 
+ganho G = 0.9237970627883547 
+Ganho em decibeis = -0.6884684585211507
+
+frequencia =  2570 
+ganho G = 0.9243234432217671 
+Ganho em decibeis = -0.6835206399551856
+
+frequencia =  2580 
+ganho G = 0.9248446000141616 
+Ganho em decibeis = -0.6786246971345458
+
+frequencia =  2590 
+ganho G = 0.9253605991674728 
+Ganho em decibeis = -0.6737799244388715
+
+frequencia =  2600 
+ganho G = 0.9258715056936645 
+Ganho em decibeis = -0.6689856279237215
+
+frequencia =  2610 
+ganho G = 0.926377383631485 
+Ganho em decibeis = -0.6642411250949526
+
+frequencia =  2620 
+ganho G = 0.9268782960629203 
+Ganho em decibeis = -0.6595457446880242
+
+frequencia =  2630 
+ganho G = 0.9273743051293447 
+Ganho em decibeis = -0.6548988264521459
+
+frequencia =  2640 
+ganho G = 0.9278654720473783 
+Ganho em decibeis = -0.6502997209391382
+
+frequencia =  2650 
+ganho G = 0.9283518571244559 
+Ganho em decibeis = -0.6457477892968764
+
+frequencia =  2660 
+ganho G = 0.9288335197741103 
+Ganho em decibeis = -0.6412424030672423
+
+frequencia =  2670 
+ganho G = 0.9293105185309799 
+Ganho em decibeis = -0.6367829439884382
+
+frequencia =  2680 
+ganho G = 0.9297829110655412 
+Ganho em decibeis = -0.6323688038015794
+
+frequencia =  2690 
+ganho G = 0.9302507541985753 
+Ganho em decibeis = -0.6279993840614506
+
+frequencia =  2700 
+ganho G = 0.9307141039153689 
+Ganho em decibeis = -0.6236740959513434
+
+frequencia =  2710 
+ganho G = 0.93117301537966 
+Ganho em decibeis = -0.6193923601018542
+
+frequencia =  2720 
+ganho G = 0.9316275429473284 
+Ganho em decibeis = -0.6151536064135668
+
+frequencia =  2730 
+ganho G = 0.932077740179839 
+Ganho em decibeis = -0.6109572738835152
+
+frequencia =  2740 
+ganho G = 0.932523659857441 
+Ganho em decibeis = -0.6068028104353436
+
+frequencia =  2750 
+ganho G = 0.9329653539921281 
+Ganho em decibeis = -0.6026896727530711
+
+frequencia =  2760 
+ganho G = 0.9334028738403634 
+Ganho em decibeis = -0.5986173261183868
+
+frequencia =  2770 
+ganho G = 0.9338362699155753 
+Ganho em decibeis = -0.594585244251369
+
+frequencia =  2780 
+ganho G = 0.934265592000427 
+Ganho em decibeis = -0.5905929091545749
+
+frequencia =  2790 
+ganho G = 0.9346908891588632 
+Ganho em decibeis = -0.5866398109604087
+
+frequencia =  2800 
+ganho G = 0.9351122097479424 
+Ganho em decibeis = -0.5827254477816748
+
+frequencia =  2810 
+ganho G = 0.9355296014294524 
+Ganho em decibeis = -0.5788493255652839
+
+frequencia =  2820 
+ganho G = 0.9359431111813197 
+Ganho em decibeis = -0.5750109579489888
+
+frequencia =  2830 
+ganho G = 0.9363527853088102 
+Ganho em decibeis = -0.5712098661211297
+
+frequencia =  2840 
+ganho G = 0.9367586694555325 
+Ganho em decibeis = -0.56744557868326
+
+frequencia =  2850 
+ganho G = 0.9371608086142406 
+Ganho em decibeis = -0.5637176315156482
+
+frequencia =  2860 
+ganho G = 0.9375592471374434 
+Ganho em decibeis = -0.5600255676455425
+
+frequencia =  2870 
+ganho G = 0.9379540287478247 
+Ganho em decibeis = -0.5563689371181637
+
+frequencia =  2880 
+ganho G = 0.9383451965484763 
+Ganho em decibeis = -0.552747296870339
+
+frequencia =  2890 
+ganho G = 0.9387327930329471 
+Ganho em decibeis = -0.5491602106067416
+
+frequencia =  2900 
+ganho G = 0.939116860095115 
+Ganho em decibeis = -0.5456072486786512
+
+frequencia =  2910 
+ganho G = 0.9394974390388798 
+Ganho em decibeis = -0.5420879879651997
+
+frequencia =  2920 
+ganho G = 0.9398745705876853 
+Ganho em decibeis = -0.5386020117570335
+
+frequencia =  2930 
+ganho G = 0.9402482948938703 
+Ganho em decibeis = -0.53514890964234
+
+frequencia =  2940 
+ganho G = 0.9406186515478547 
+Ganho em decibeis = -0.5317282773951806
+
+frequencia =  2950 
+ganho G = 0.9409856795871617 
+Ganho em decibeis = -0.5283397168660859
+
+frequencia =  2960 
+ganho G = 0.9413494175052795 
+Ganho em decibeis = -0.5249828358748588
+
+frequencia =  2970 
+ganho G = 0.941709903260366 
+Ganho em decibeis = -0.5216572481055338
+
+frequencia =  2980 
+ganho G = 0.9420671742838005 
+Ganho em decibeis = -0.5183625730034419
+
+frequencia =  2990 
+ganho G = 0.9424212674885822 
+Ganho em decibeis = -0.5150984356743467
+
+frequencia =  3000 
+ganho G = 0.9427722192775827 
+Ganho em decibeis = -0.5118644667855795
+
+frequencia =  3010 
+ganho G = 0.943120065551651 
+Ganho em decibeis = -0.5086603024691586
+
+frequencia =  3020 
+ganho G = 0.9434648417175758 
+Ganho em decibeis = -0.5054855842268374
+
+frequencia =  3030 
+ganho G = 0.9438065826959092 
+Ganho em decibeis = -0.5023399588370255
+
+frequencia =  3040 
+ganho G = 0.9441453229286519 
+Ganho em decibeis = -0.4992230782635503
+
+frequencia =  3050 
+ganho G = 0.9444810963868034 
+Ganho em decibeis = -0.4961345995662324
+
+frequencia =  3060 
+ganho G = 0.9448139365777796 
+Ganho em decibeis = -0.49307418481321874
+
+frequencia =  3070 
+ganho G = 0.9451438765527015 
+Ganho em decibeis = -0.49004150099502886
+
+frequencia =  3080 
+ganho G = 0.9454709489135565 
+Ganho em decibeis = -0.4870362199402916
+
+frequencia =  3090 
+ganho G = 0.9457951858202334 
+Ganho em decibeis = -0.48405801823313693
+
+frequencia =  3100 
+ganho G = 0.9461166189974354 
+Ganho em decibeis = -0.48110657713218996
+
+frequencia =  3110 
+ganho G = 0.9464352797414738 
+Ganho em decibeis = -0.47818158249114223
+
+frequencia =  3120 
+ganho G = 0.9467511989269424 
+Ganho em decibeis = -0.47528272468086685
+
+frequencia =  3130 
+ganho G = 0.9470644070132752 
+Ganho em decibeis = -0.4724096985130529
+
+frequencia =  3140 
+ganho G = 0.9473749340511932 
+Ganho em decibeis = -0.4695622031652929
+
+frequencia =  3150 
+ganho G = 0.9476828096890372 
+Ganho em decibeis = -0.4667399421076315
+
+frequencia =  3160 
+ganho G = 0.947988063178991 
+Ganho em decibeis = -0.4639426230305302
+
+frequencia =  3170 
+ganho G = 0.9482907233831989 
+Ganho em decibeis = -0.46116995777420156
+
+frequencia =  3180 
+ganho G = 0.9485908187797769 
+Ganho em decibeis = -0.45842166225929804
+
+frequencia =  3190 
+ganho G = 0.9488883774687201 
+Ganho em decibeis = -0.4556974564189343
+
+frequencia =  3200 
+ganho G = 0.9491834271777082 
+Ganho em decibeis = -0.4529970641320017
+
+frequencia =  3210 
+ganho G = 0.949475995267813 
+Ganho em decibeis = -0.4503202131577393
+
+frequencia =  3220 
+ganho G = 0.9497661087391067 
+Ganho em decibeis = -0.44766663507155857
+
+frequencia =  3230 
+ganho G = 0.9500537942361738 
+Ganho em decibeis = -0.44503606520208583
+
+frequencia =  3240 
+ganho G = 0.9503390780535307 
+Ganho em decibeis = -0.4424282425693725
+
+frequencia =  3250 
+ganho G = 0.9506219861409513 
+Ganho em decibeis = -0.43984290982429125
+
+frequencia =  3260 
+ganho G = 0.9509025441087018 
+Ganho em decibeis = -0.43727981318906267
+
+frequencia =  3270 
+ganho G = 0.9511807772326881 
+Ganho em decibeis = -0.43473870239888757
+
+frequencia =  3280 
+ganho G = 0.9514567104595134 
+Ganho em decibeis = -0.43221933064469187
+
+frequencia =  3290 
+ganho G = 0.9517303684114519 
+Ganho em decibeis = -0.4297214545169199
+
+frequencia =  3300 
+ganho G = 0.9520017753913373 
+Ganho em decibeis = -0.4272448339503856
+
+frequencia =  3310 
+ganho G = 0.9522709553873699 
+Ganho em decibeis = -0.4247892321701401
+
+frequencia =  3320 
+ganho G = 0.9525379320778402 
+Ganho em decibeis = -0.4223544156383553
+
+frequencia =  3330 
+ganho G = 0.9528027288357754 
+Ganho em decibeis = -0.41994015400217355
+
+frequencia =  3340 
+ganho G = 0.9530653687335066 
+Ganho em decibeis = -0.4175462200425303
+
+frequencia =  3350 
+ganho G = 0.9533258745471586 
+Ganho em decibeis = -0.4151723896239163
+
+frequencia =  3360 
+ganho G = 0.9535842687610655 
+Ganho em decibeis = -0.4128184416450637
+
+frequencia =  3370 
+ganho G = 0.9538405735721124 
+Ganho em decibeis = -0.4104841579905277
+
+frequencia =  3380 
+ganho G = 0.9540948108940033 
+Ganho em decibeis = -0.4081693234831634
+
+frequencia =  3390 
+ganho G = 0.9543470023614588 
+Ganho em decibeis = -0.4058737258374654
+
+frequencia =  3400 
+ganho G = 0.9545971693343435 
+Ganho em decibeis = -0.4035971556137543
+
+frequencia =  3410 
+ganho G = 0.9548453329017246 
+Ganho em decibeis = -0.40133940617319963
+
+frequencia =  3420 
+ganho G = 0.9550915138858633 
+Ganho em decibeis = -0.3991002736336523
+
+frequencia =  3430 
+ganho G = 0.9553357328461397 
+Ganho em decibeis = -0.3968795568262813
+
+frequencia =  3440 
+ganho G = 0.9555780100829132 
+Ganho em decibeis = -0.39467705725298274
+
+frequencia =  3450 
+ganho G = 0.955818365641318 
+Ganho em decibeis = -0.39249257904457124
+
+frequencia =  3460 
+ganho G = 0.9560568193149973 
+Ganho em decibeis = -0.3903259289197024
+
+frequencia =  3470 
+ganho G = 0.9562933906497754 
+Ganho em decibeis = -0.38817691614454575
+
+frequencia =  3480 
+ganho G = 0.9565280989472684 
+Ganho em decibeis = -0.3860453524931737
+
+frequencia =  3490 
+ganho G = 0.9567609632684375 
+Ganho em decibeis = -0.3839310522086548
+
+frequencia =  3500 
+ganho G = 0.9569920024370824 
+Ganho em decibeis = -0.38183383196484016
+
+frequencia =  3510 
+ganho G = 0.9572212350432776 
+Ganho em decibeis = -0.3797535108288349
+
+frequencia =  3520 
+ganho G = 0.9574486794467543 
+Ganho em decibeis = -0.37768991022411924
+
+frequencia =  3530 
+ganho G = 0.9576743537802246 
+Ganho em decibeis = -0.37564285389433655
+
+frequencia =  3540 
+ganho G = 0.9578982759526531 
+Ganho em decibeis = -0.3736121678677148
+
+frequencia =  3550 
+ganho G = 0.958120463652475 
+Ganho em decibeis = -0.37159768042210917
+
+frequencia =  3560 
+ganho G = 0.9583409343507621 
+Ganho em decibeis = -0.3695992220506636
+
+frequencia =  3570 
+ganho G = 0.9585597053043362 
+Ganho em decibeis = -0.3676166254280746
+
+frequencia =  3580 
+ganho G = 0.9587767935588343 
+Ganho em decibeis = -0.3656497253774409
+
+frequencia =  3590 
+ganho G = 0.9589922159517221 
+Ganho em decibeis = -0.3636983588376934
+
+frequencia =  3600 
+ganho G = 0.9592059891152606 
+Ganho em decibeis = -0.361762364831592
+
+frequencia =  3610 
+ganho G = 0.9594181294794237 
+Ganho em decibeis = -0.3598415844342739
+
+frequencia =  3620 
+ganho G = 0.9596286532747694 
+Ganho em decibeis = -0.35793586074235806
+
+frequencia =  3630 
+ganho G = 0.9598375765352654 
+Ganho em decibeis = -0.3560450388435657
+
+frequencia =  3640 
+ganho G = 0.9600449151010674 
+Ganho em decibeis = -0.3541689657868887
+
+frequencia =  3650 
+ganho G = 0.9602506846212564 
+Ganho em decibeis = -0.35230749055324384
+
+frequencia =  3660 
+ganho G = 0.960454900556529 
+Ganho em decibeis = -0.3504604640266539
+
+frequencia =  3670 
+ganho G = 0.9606575781818464 
+Ganho em decibeis = -0.34862773896591304
+
+frequencia =  3680 
+ganho G = 0.9608587325890409 
+Ganho em decibeis = -0.3468091699767346
+
+frequencia =  3690 
+ganho G = 0.9610583786893814 
+Ganho em decibeis = -0.34500461348437717
+
+frequencia =  3700 
+ganho G = 0.9612565312160973 
+Ganho em decibeis = -0.34321392770673925
+
+frequencia =  3710 
+ganho G = 0.9614532047268631 
+Ganho em decibeis = -0.3414369726279086
+
+frequencia =  3720 
+ganho G = 0.9616484136062438 
+Ganho em decibeis = -0.3396736099721549
+
+frequencia =  3730 
+ganho G = 0.9618421720681012 
+Ganho em decibeis = -0.3379237031783691
+
+frequencia =  3740 
+ganho G = 0.9620344941579625 
+Ganho em decibeis = -0.3361871173749364
+
+frequencia =  3750 
+ganho G = 0.9622253937553517 
+Ganho em decibeis = -0.3344637193550243
+
+frequencia =  3760 
+ganho G = 0.9624148845760847 
+Ganho em decibeis = -0.33275337755228623
+
+frequencia =  3770 
+ganho G = 0.9626029801745276 
+Ganho em decibeis = -0.33105596201698473
+
+frequencia =  3780 
+ganho G = 0.9627896939458207 
+Ganho em decibeis = -0.3293713443924958
+
+frequencia =  3790 
+ganho G = 0.9629750391280663 
+Ganho em decibeis = -0.32769939789222624
+
+frequencia =  3800 
+ganho G = 0.9631590288044839 
+Ganho em decibeis = -0.32603999727689625
+
+frequencia =  3810 
+ganho G = 0.9633416759055317 
+Ganho em decibeis = -0.3243930188322085
+
+frequencia =  3820 
+ganho G = 0.9635229932109933 
+Ganho em decibeis = -0.32275834034689277
+
+frequencia =  3830 
+ganho G = 0.9637029933520342 
+Ganho em decibeis = -0.32113584109110804
+
+frequencia =  3840 
+ganho G = 0.9638816888132257 
+Ganho em decibeis = -0.3195254017951964
+
+frequencia =  3850 
+ganho G = 0.9640590919345366 
+Ganho em decibeis = -0.31792690462879813
+
+frequencia =  3860 
+ganho G = 0.9642352149132964 
+Ganho em decibeis = -0.3163402331802996
+
+frequencia =  3870 
+ganho G = 0.9644100698061246 
+Ganho em decibeis = -0.31476527243663577
+
+frequencia =  3880 
+ganho G = 0.9645836685308343 
+Ganho em decibeis = -0.3132019087633998
+
+frequencia =  3890 
+ganho G = 0.9647560228683042 
+Ganho em decibeis = -0.3116500298852932
+
+frequencia =  3900 
+ganho G = 0.964927144464322 
+Ganho em decibeis = -0.31010952486689564
+
+frequencia =  3910 
+ganho G = 0.9650970448314008 
+Ganho em decibeis = -0.308580284093739
+
+frequencia =  3920 
+ganho G = 0.965265735350566 
+Ganho em decibeis = -0.3070621992536978
+
+frequencia =  3930 
+ganho G = 0.965433227273117 
+Ganho em decibeis = -0.3055551633186731
+
+frequencia =  3940 
+ganho G = 0.96559953172236 
+Ganho em decibeis = -0.3040590705265789
+
+frequencia =  3950 
+ganho G = 0.965764659695316 
+Ganho em decibeis = -0.30257381636361846
+
+frequencia =  3960 
+ganho G = 0.965928622064402 
+Ganho em decibeis = -0.30109929754684284
+
+frequencia =  3970 
+ganho G = 0.9660914295790876 
+Ganho em decibeis = -0.2996354120069896
+
+frequencia =  3980 
+ganho G = 0.9662530928675248 
+Ganho em decibeis = -0.2981820588716068
+
+frequencia =  3990 
+ganho G = 0.9664136224381558 
+Ganho em decibeis = -0.2967391384484313
+
+frequencia =  4000 
+ganho G = 0.9665730286812941 
+Ganho em decibeis = -0.2953065522090434
+
+frequencia =  4010 
+ganho G = 0.9667313218706832 
+Ganho em decibeis = -0.2938842027727833
+
+frequencia =  4020 
+ganho G = 0.9668885121650318 
+Ganho em decibeis = -0.29247199389091155
+
+frequencia =  4030 
+ganho G = 0.9670446096095248 
+Ganho em decibeis = -0.2910698304310395
+
+frequencia =  4040 
+ganho G = 0.9671996241373138 
+Ganho em decibeis = -0.2896776183617846
+
+frequencia =  4050 
+ganho G = 0.967353565570983 
+Ganho em decibeis = -0.28829526473769
+
+frequencia =  4060 
+ganho G = 0.9675064436239953 
+Ganho em decibeis = -0.28692267768436286
+
+frequencia =  4070 
+ganho G = 0.9676582679021151 
+Ganho em decibeis = -0.2855597663838639
+
+frequencia =  4080 
+ganho G = 0.9678090479048113 
+Ganho em decibeis = -0.28420644106031046
+
+frequencia =  4090 
+ganho G = 0.9679587930266385 
+Ganho em decibeis = -0.2828626129657202
+
+frequencia =  4100 
+ganho G = 0.9681075125585983 
+Ganho em decibeis = -0.2815281943660658
+
+frequencia =  4110 
+ganho G = 0.9682552156894807 
+Ganho em decibeis = -0.2802030985275498
+
+frequencia =  4120 
+ganho G = 0.9684019115071846 
+Ganho em decibeis = -0.27888723970309914
+
+frequencia =  4130 
+ganho G = 0.9685476090000201 
+Ganho em decibeis = -0.27758053311905995
+
+frequencia =  4140 
+ganho G = 0.9686923170579911 
+Ganho em decibeis = -0.27628289496210756
+
+frequencia =  4150 
+ganho G = 0.9688360444740584 
+Ganho em decibeis = -0.27499424236635683
+
+frequencia =  4160 
+ganho G = 0.9689787999453856 
+Ganho em decibeis = -0.27371449340066756
+
+frequencia =  4170 
+ganho G = 0.9691205920745661 
+Ganho em decibeis = -0.27244356705615014
+
+frequencia =  4180 
+ganho G = 0.9692614293708312 
+Ganho em decibeis = -0.2711813832338695
+
+frequencia =  4190 
+ganho G = 0.9694013202512427 
+Ganho em decibeis = -0.26992786273271757
+
+frequencia =  4200 
+ganho G = 0.9695402730418664 
+Ganho em decibeis = -0.26868292723749726
+
+frequencia =  4210 
+ganho G = 0.9696782959789287 
+Ganho em decibeis = -0.26744649930717396
+
+frequencia =  4220 
+ganho G = 0.969815397209958 
+Ganho em decibeis = -0.2662185023633028
+
+frequencia =  4230 
+ganho G = 0.9699515847949063 
+Ganho em decibeis = -0.2649988606786544
+
+frequencia =  4240 
+ganho G = 0.9700868667072592 
+Ganho em decibeis = -0.2637874993659769
+
+frequencia =  4250 
+ganho G = 0.9702212508351248 
+Ganho em decibeis = -0.262584344366973
+
+frequencia =  4260 
+ganho G = 0.9703547449823113 
+Ganho em decibeis = -0.2613893224414022
+
+frequencia =  4270 
+ganho G = 0.9704873568693861 
+Ganho em decibeis = -0.2602023611563798
+
+frequencia =  4280 
+ganho G = 0.9706190941347215 
+Ganho em decibeis = -0.2590233888758147
+
+frequencia =  4290 
+ganho G = 0.9707499643355234 
+Ganho em decibeis = -0.25785233475002717
+
+frequencia =  4300 
+ganho G = 0.9708799749488483 
+Ganho em decibeis = -0.25668912870550076
+
+frequencia =  4310 
+ganho G = 0.9710091333726026 
+Ganho em decibeis = -0.2555337014348046
+
+frequencia =  4320 
+ganho G = 0.9711374469265298 
+Ganho em decibeis = -0.2543859843866616
+
+frequencia =  4330 
+ganho G = 0.9712649228531827 
+Ganho em decibeis = -0.2532459097561596
+
+frequencia =  4340 
+ganho G = 0.9713915683188814 
+Ganho em decibeis = -0.2521134104751207
+
+frequencia =  4350 
+ganho G = 0.971517390414659 
+Ganho em decibeis = -0.2509884202026022
+
+frequencia =  4360 
+ganho G = 0.9716423961571933 
+Ganho em decibeis = -0.24987087331553903
+
+frequencia =  4370 
+ganho G = 0.9717665924897239 
+Ganho em decibeis = -0.24876070489954064
+
+frequencia =  4380 
+ganho G = 0.9718899862829593 
+Ganho em decibeis = -0.24765785073979807
+
+frequencia =  4390 
+ganho G = 0.9720125843359675 
+Ganho em decibeis = -0.2465622473121597
+
+frequencia =  4400 
+ganho G = 0.9721343933770588 
+Ganho em decibeis = -0.2454738317742909
+
+frequencia =  4410 
+ganho G = 0.9722554200646504 
+Ganho em decibeis = -0.24439254195702098
+
+frequencia =  4420 
+ganho G = 0.9723756709881243 
+Ganho em decibeis = -0.2433183163557677
+
+frequencia =  4430 
+ganho G = 0.9724951526686698 
+Ganho em decibeis = -0.24225109412211476
+
+frequencia =  4440 
+ganho G = 0.9726138715601153 
+Ganho em decibeis = -0.24119081505550788
+
+frequencia =  4450 
+ganho G = 0.9727318340497486 
+Ganho em decibeis = -0.2401374195950631
+
+frequencia =  4460 
+ganho G = 0.9728490464591255 
+Ganho em decibeis = -0.23909084881150885
+
+frequencia =  4470 
+ganho G = 0.9729655150448675 
+Ganho em decibeis = -0.23805104439922953
+
+frequencia =  4480 
+ganho G = 0.9730812459994479 
+Ganho em decibeis = -0.23701794866843748
+
+frequencia =  4490 
+ganho G = 0.9731962454519667 
+Ganho em decibeis = -0.23599150453745826
+
+frequencia =  4500 
+ganho G = 0.9733105194689173 
+Ganho em decibeis = -0.23497165552510482
+
+frequencia =  4510 
+ganho G = 0.9734240740549379 
+Ganho em decibeis = -0.2339583457432057
+
+frequencia =  4520 
+ganho G = 0.9735369151535579 
+Ganho em decibeis = -0.232951519889189
+
+frequencia =  4530 
+ganho G = 0.9736490486479297 
+Ganho em decibeis = -0.23195112323881556
+
+frequencia =  4540 
+ganho G = 0.9737604803615526 
+Ganho em decibeis = -0.2309571016389953
+
+frequencia =  4550 
+ganho G = 0.9738712160589866 
+Ganho em decibeis = -0.2299694015007091
+
+frequencia =  4560 
+ganho G = 0.9739812614465561 
+Ganho em decibeis = -0.22898796979203362
+
+frequencia =  4570 
+ganho G = 0.9740906221730432 
+Ganho em decibeis = -0.22801275403126925
+
+frequencia =  4580 
+ganho G = 0.9741993038303738 
+Ganho em decibeis = -0.2270437022801564
+
+frequencia =  4590 
+ganho G = 0.9743073119542911 
+Ganho em decibeis = -0.2260807631372033
+
+frequencia =  4600 
+ganho G = 0.9744146520250239 
+Ganho em decibeis = -0.2251238857310843
+
+frequencia =  4610 
+ganho G = 0.9745213294679409 
+Ganho em decibeis = -0.2241730197141678
+
+frequencia =  4620 
+ganho G = 0.9746273496542017 
+Ganho em decibeis = -0.22322811525609274
+
+frequencia =  4630 
+ganho G = 0.9747327179013936 
+Ganho em decibeis = -0.22228912303747822
+
+frequencia =  4640 
+ganho G = 0.9748374394741646 
+Ganho em decibeis = -0.22135599424368035
+
+frequencia =  4650 
+ganho G = 0.9749415195848435 
+Ganho em decibeis = -0.22042868055867668
+
+frequencia =  4660 
+ganho G = 0.9750449633940556 
+Ganho em decibeis = -0.21950713415900439
+
+frequencia =  4670 
+ganho G = 0.9751477760113265 
+Ganho em decibeis = -0.21859130770780366
+
+frequencia =  4680 
+ganho G = 0.9752499624956812 
+Ganho em decibeis = -0.21768115434893226
+
+frequencia =  4690 
+ganho G = 0.9753515278562322 
+Ganho em decibeis = -0.21677662770117
+
+frequencia =  4700 
+ganho G = 0.9754524770527617 
+Ganho em decibeis = -0.2158776818525019
+
+frequencia =  4710 
+ganho G = 0.9755528149962949 
+Ganho em decibeis = -0.21498427135447873
+
+frequencia =  4720 
+ganho G = 0.9756525465496666 
+Ganho em decibeis = -0.21409635121665413
+
+frequencia =  4730 
+ganho G = 0.9757516765280797 
+Ganho em decibeis = -0.21321387690110444
+
+frequencia =  4740 
+ganho G = 0.9758502096996557 
+Ganho em decibeis = -0.2123368043170238
+
+frequencia =  4750 
+ganho G = 0.9759481507859794 
+Ganho em decibeis = -0.21146508981538653
+
+frequencia =  4760 
+ganho G = 0.9760455044626348 
+Ganho em decibeis = -0.21059869018369076
+
+frequencia =  4770 
+ganho G = 0.9761422753597347 
+Ganho em decibeis = -0.20973756264077437
+
+frequencia =  4780 
+ganho G = 0.9762384680624439 
+Ganho em decibeis = -0.20888166483169224
+
+frequencia =  4790 
+ganho G = 0.9763340871114937 
+Ganho em decibeis = -0.20803095482267667
+
+frequencia =  4800 
+ganho G = 0.9764291370036915 
+Ganho em decibeis = -0.20718539109616196
+
+frequencia =  4810 
+ganho G = 0.9765236221924228 
+Ganho em decibeis = -0.2063449325458688
+
+frequencia =  4820 
+ganho G = 0.9766175470881466 
+Ganho em decibeis = -0.20550953847196984
+
+frequencia =  4830 
+ganho G = 0.976710916058885 
+Ganho em decibeis = -0.20467916857630503
+
+frequencia =  4840 
+ganho G = 0.9768037334307046 
+Ganho em decibeis = -0.2038537829576847
+
+frequencia =  4850 
+ganho G = 0.9768960034881942 
+Ganho em decibeis = -0.2030333421072271
+
+frequencia =  4860 
+ganho G = 0.9769877304749339 
+Ganho em decibeis = -0.20221780690378582
+
+frequencia =  4870 
+ganho G = 0.9770789185939606 
+Ganho em decibeis = -0.2014071386094157
+
+frequencia =  4880 
+ganho G = 0.9771695720082239 
+Ganho em decibeis = -0.2006012988649246
+
+frequencia =  4890 
+ganho G = 0.9772596948410397 
+Ganho em decibeis = -0.19980024968546262
+
+frequencia =  4900 
+ganho G = 0.977349291176536 
+Ganho em decibeis = -0.19900395345618277
+
+frequencia =  4910 
+ganho G = 0.9774383650600932 
+Ganho em decibeis = -0.19821237292795663
+
+frequencia =  4920 
+ganho G = 0.9775269204987791 
+Ganho em decibeis = -0.19742547121314435
+
+frequencia =  4930 
+ganho G = 0.9776149614617776 
+Ganho em decibeis = -0.19664321178143068
+
+frequencia =  4940 
+ganho G = 0.9777024918808126 
+Ganho em decibeis = -0.19586555845570644
+
+frequencia =  4950 
+ganho G = 0.977789515650566 
+Ganho em decibeis = -0.19509247540800834
+
+frequencia =  4960 
+ganho G = 0.9778760366290911 
+Ganho em decibeis = -0.19432392715551192
+
+frequencia =  4970 
+ganho G = 0.9779620586382192 
+Ganho em decibeis = -0.19355987855658022
+
+frequencia =  4980 
+ganho G = 0.9780475854639623 
+Ganho em decibeis = -0.19280029480686572
+
+frequencia =  4990 
+ganho G = 0.9781326208569108 
+Ganho em decibeis = -0.192045141435455
+
+frequencia =  5000 
+ganho G = 0.9782171685326245 
+Ganho em decibeis = -0.19129438430107676
+
+frequencia =  5010 
+ganho G = 0.978301232172021 
+Ganho em decibeis = -0.19054798958834784
+
+frequencia =  5020 
+ganho G = 0.9783848154217566 
+Ganho em decibeis = -0.1898059238040813
+
+frequencia =  5030 
+ganho G = 0.978467921894605 
+Ganho em decibeis = -0.1890681537736254
+
+frequencia =  5040 
+ganho G = 0.9785505551698284 
+Ganho em decibeis = -0.1883346466372743
+
+frequencia =  5050 
+ganho G = 0.9786327187935469 
+Ganho em decibeis = -0.1876053698466993
+
+frequencia =  5060 
+ganho G = 0.9787144162791004 
+Ganho em decibeis = -0.18688029116145002
+
+frequencia =  5070 
+ganho G = 0.9787956511074082 
+Ganho em decibeis = -0.18615937864548446
+
+frequencia =  5080 
+ganho G = 0.9788764267273224 
+Ganho em decibeis = -0.1854426006637545
+
+frequencia =  5090 
+ganho G = 0.9789567465559784 
+Ganho em decibeis = -0.18472992587882836
+
+frequencia =  5100 
+ganho G = 0.9790366139791392 
+Ganho em decibeis = -0.18402132324756462
+
+frequencia =  5110 
+ganho G = 0.9791160323515373 
+Ganho em decibeis = -0.18331676201782027
+
+frequencia =  5120 
+ganho G = 0.9791950049972106 
+Ganho em decibeis = -0.18261621172521267
+
+frequencia =  5130 
+ganho G = 0.979273535209836 
+Ganho em decibeis = -0.18191964218990492
+
+frequencia =  5140 
+ganho G = 0.979351626253056 
+Ganho em decibeis = -0.18122702351346154
+
+frequencia =  5150 
+ganho G = 0.9794292813608054 
+Ganho em decibeis = -0.18053832607570863
+
+frequencia =  5160 
+ganho G = 0.9795065037376292 
+Ganho em decibeis = -0.17985352053166812
+
+frequencia =  5170 
+ganho G = 0.9795832965590001 
+Ganho em decibeis = -0.17917257780850712
+
+frequencia =  5180 
+ganho G = 0.979659662971631 
+Ganho em decibeis = -0.1784954691025389
+
+frequencia =  5190 
+ganho G = 0.9797356060937827 
+Ganho em decibeis = -0.1778221658762581
+
+frequencia =  5200 
+ganho G = 0.9798111290155694 
+Ganho em decibeis = -0.17715263985541363
+
+frequencia =  5210 
+ganho G = 0.9798862347992592 
+Ganho em decibeis = -0.17648686302611893
+
+frequencia =  5220 
+ganho G = 0.9799609264795712 
+Ganho em decibeis = -0.17582480763200053
+
+frequencia =  5230 
+ganho G = 0.9800352070639698 
+Ganho em decibeis = -0.17516644617137883
+
+frequencia =  5240 
+ganho G = 0.9801090795329533 
+Ganho em decibeis = -0.17451175139449607
+
+frequencia =  5250 
+ganho G = 0.9801825468403422 
+Ganho em decibeis = -0.1738606963007547
+
+frequencia =  5260 
+ganho G = 0.9802556119135606 
+Ganho em decibeis = -0.17321325413602043
+
+frequencia =  5270 
+ganho G = 0.9803282776539161 
+Ganho em decibeis = -0.17256939838994045
+
+frequencia =  5280 
+ganho G = 0.9804005469368763 
+Ganho em decibeis = -0.17192910279329682
+
+frequencia =  5290 
+ganho G = 0.980472422612341 
+Ganho em decibeis = -0.1712923413154014
+
+frequencia =  5300 
+ganho G = 0.9805439075049118 
+Ganho em decibeis = -0.1706590881615158
+
+frequencia =  5310 
+ganho G = 0.9806150044141582 
+Ganho em decibeis = -0.17002931777030617
+
+frequencia =  5320 
+ganho G = 0.9806857161148805 
+Ganho em decibeis = -0.16940300481132775
+
+frequencia =  5330 
+ganho G = 0.9807560453573697 
+Ganho em decibeis = -0.16878012418254684
+
+frequencia =  5340 
+ganho G = 0.9808259948676636 
+Ganho em decibeis = -0.16816065100788663
+
+frequencia =  5350 
+ganho G = 0.9808955673478007 
+Ganho em decibeis = -0.16754456063480858
+
+frequencia =  5360 
+ganho G = 0.9809647654760705 
+Ganho em decibeis = -0.16693182863191813
+
+frequencia =  5370 
+ganho G = 0.9810335919072611 
+Ganho em decibeis = -0.16632243078660447
+
+frequencia =  5380 
+ganho G = 0.9811020492729036 
+Ganho em decibeis = -0.16571634310271083
+
+frequencia =  5390 
+ganho G = 0.9811701401815132 
+Ganho em decibeis = -0.16511354179822885
+
+frequencia =  5400 
+ganho G = 0.9812378672188283 
+Ganho em decibeis = -0.16451400330302515
+
+frequencia =  5410 
+ganho G = 0.9813052329480466 
+Ganho em decibeis = -0.16391770425659113
+
+frequencia =  5420 
+ganho G = 0.9813722399100571 
+Ganho em decibeis = -0.16332462150582885
+
+frequencia =  5430 
+ganho G = 0.9814388906236713 
+Ganho em decibeis = -0.16273473210285147
+
+frequencia =  5440 
+ganho G = 0.9815051875858497 
+Ganho em decibeis = -0.16214801330282852
+
+frequencia =  5450 
+ganho G = 0.9815711332719279 
+Ganho em decibeis = -0.1615644425618326
+
+frequencia =  5460 
+ganho G = 0.9816367301358372 
+Ganho em decibeis = -0.16098399753474088
+
+frequencia =  5470 
+ganho G = 0.9817019806103251 
+Ganho em decibeis = -0.1604066560731378
+
+frequencia =  5480 
+ganho G = 0.9817668871071719 
+Ganho em decibeis = -0.15983239622325784
+
+frequencia =  5490 
+ganho G = 0.9818314520174048 
+Ganho em decibeis = -0.15926119622394694
+
+frequencia =  5500 
+ganho G = 0.98189567771151 
+Ganho em decibeis = -0.15869303450465422
+
+frequencia =  5510 
+ganho G = 0.9819595665396418 
+Ganho em decibeis = -0.15812788968343758
+
+frequencia =  5520 
+ganho G = 0.9820231208318294 
+Ganho em decibeis = -0.1575657405650066
+
+frequencia =  5530 
+ganho G = 0.982086342898182 
+Ganho em decibeis = -0.15700656613877523
+
+frequencia =  5540 
+ganho G = 0.9821492350290898 
+Ganho em decibeis = -0.15645034557695114
+
+frequencia =  5550 
+ganho G = 0.9822117994954241 
+Ganho em decibeis = -0.1558970582326419
+
+frequencia =  5560 
+ganho G = 0.9822740385487349 
+Ganho em decibeis = -0.15534668363798096
+
+frequencia =  5570 
+ganho G = 0.9823359544214457 
+Ganho em decibeis = -0.15479920150227616
+
+frequencia =  5580 
+ganho G = 0.9823975493270464 
+Ganho em decibeis = -0.15425459171019107
+
+frequencia =  5590 
+ganho G = 0.9824588254602832 
+Ganho em decibeis = -0.15371283431993657
+
+frequencia =  5600 
+ganho G = 0.9825197849973479 
+Ganho em decibeis = -0.15317390956148483
+
+frequencia =  5610 
+ganho G = 0.9825804300960637 
+Ganho em decibeis = -0.15263779783480982
+
+frequencia =  5620 
+ganho G = 0.9826407628960685 
+Ganho em decibeis = -0.15210447970814722
+
+frequencia =  5630 
+ganho G = 0.9827007855189973 
+Ganho em decibeis = -0.15157393591627613
+
+frequencia =  5640 
+ganho G = 0.9827605000686627 
+Ganho em decibeis = -0.15104614735880828
+
+frequencia =  5650 
+ganho G = 0.9828199086312309 
+Ganho em decibeis = -0.1505210950985221
+
+frequencia =  5660 
+ganho G = 0.9828790132753992 
+Ganho em decibeis = -0.1499987603596911
+
+frequencia =  5670 
+ganho G = 0.9829378160525676 
+Ganho em decibeis = -0.1494791245264548
+
+frequencia =  5680 
+ganho G = 0.9829963189970125 
+Ganho em decibeis = -0.14896216914118482
+
+frequencia =  5690 
+ganho G = 0.9830545241260551 
+Ganho em decibeis = -0.14844787590288955
+
+frequencia =  5700 
+ganho G = 0.9831124334402292 
+Ganho em decibeis = -0.14793622666563372
+
+frequencia =  5710 
+ganho G = 0.9831700489234481 
+Ganho em decibeis = -0.14742720343696314
+
+frequencia =  5720 
+ganho G = 0.9832273725431664 
+Ganho em decibeis = -0.1469207883763723
+
+frequencia =  5730 
+ganho G = 0.9832844062505444 
+Ganho em decibeis = -0.14641696379376282
+
+frequencia =  5740 
+ganho G = 0.9833411519806069 
+Ganho em decibeis = -0.14591571214793886
+
+frequencia =  5750 
+ganho G = 0.9833976116524021 
+Ganho em decibeis = -0.14541701604511367
+
+frequencia =  5760 
+ganho G = 0.9834537871691581 
+Ganho em decibeis = -0.14492085823743323
+
+frequencia =  5770 
+ganho G = 0.9835096804184374 
+Ganho em decibeis = -0.14442722162151847
+
+frequencia =  5780 
+ganho G = 0.9835652932722913 
+Ganho em decibeis = -0.14393608923701728
+
+frequencia =  5790 
+ganho G = 0.9836206275874091 
+Ganho em decibeis = -0.14344744426519054
+
+frequencia =  5800 
+ganho G = 0.9836756852052699 
+Ganho em decibeis = -0.14296127002749268
+
+frequencia =  5810 
+ganho G = 0.9837304679522889 
+Ganho em decibeis = -0.14247754998418982
+
+frequencia =  5820 
+ganho G = 0.9837849776399652 
+Ganho em decibeis = -0.14199626773296944
+
+frequencia =  5830 
+ganho G = 0.9838392160650251 
+Ganho em decibeis = -0.1415174070075937
+
+frequencia =  5840 
+ganho G = 0.9838931850095664 
+Ganho em decibeis = -0.141040951676544
+
+frequencia =  5850 
+ganho G = 0.9839468862411986 
+Ganho em decibeis = -0.14056688574169848
+
+frequencia =  5860 
+ganho G = 0.984000321513184 
+Ganho em decibeis = -0.14009519333701442
+
+frequencia =  5870 
+ganho G = 0.984053492564575 
+Ganho em decibeis = -0.13962585872722774
+
+frequencia =  5880 
+ganho G = 0.9841064011203516 
+Ganho em decibeis = -0.1391588663065705
+
+frequencia =  5890 
+ganho G = 0.9841590488915565 
+Ganho em decibeis = -0.13869420059749998
+
+frequencia =  5900 
+ganho G = 0.9842114375754285 
+Ganho em decibeis = -0.13823184624944215
+
+frequencia =  5910 
+ganho G = 0.9842635688555352 
+Ganho em decibeis = -0.1377717880375526
+
+frequencia =  5920 
+ganho G = 0.9843154444019034 
+Ganho em decibeis = -0.13731401086148967
+
+frequencia =  5930 
+ganho G = 0.9843670658711493 
+Ganho em decibeis = -0.13685849974419434
+
+frequencia =  5940 
+ganho G = 0.9844184349066051 
+Ganho em decibeis = -0.1364052398307018
+
+frequencia =  5950 
+ganho G = 0.9844695531384468 
+Ganho em decibeis = -0.13595421638694516
+
+frequencia =  5960 
+ganho G = 0.9845204221838186 
+Ganho em decibeis = -0.1355054147985878
+
+frequencia =  5970 
+ganho G = 0.9845710436469571 
+Ganho em decibeis = -0.1350588205698634
+
+frequencia =  5980 
+ganho G = 0.9846214191193134 
+Ganho em decibeis = -0.13461441932242707
+
+frequencia =  5990 
+ganho G = 0.9846715501796743 
+Ganho em decibeis = -0.134172196794224
+
+frequencia =  6000 
+ganho G = 0.9847214383942823 
+Ganho em decibeis = -0.13373213883836513
+
+frequencia =  6010 
+ganho G = 0.9847710853169531 
+Ganho em decibeis = -0.13329423142202496
+
+frequencia =  6020 
+ganho G = 0.984820492489194 
+Ganho em decibeis = -0.13285846062533901
+
+frequencia =  6030 
+ganho G = 0.984869661440319 
+Ganho em decibeis = -0.1324248126403223
+
+frequencia =  6040 
+ganho G = 0.9849185936875636 
+Ganho em decibeis = -0.13199327376979578
+
+frequencia =  6050 
+ganho G = 0.984967290736198 
+Ganho em decibeis = -0.13156383042633235
+
+frequencia =  6060 
+ganho G = 0.98501575407964 
+Ganho em decibeis = -0.13113646913119684
+
+frequencia =  6070 
+ganho G = 0.9850639851995646 
+Ganho em decibeis = -0.13071117651332326
+
+frequencia =  6080 
+ganho G = 0.9851119855660146 
+Ganho em decibeis = -0.13028793930828098
+
+frequencia =  6090 
+ganho G = 0.9851597566375097 
+Ganho em decibeis = -0.12986674435725865
+
+frequencia =  6100 
+ganho G = 0.985207299861152 
+Ganho em decibeis = -0.12944757860607228
+
+frequencia =  6110 
+ganho G = 0.9852546166727343 
+Ganho em decibeis = -0.12903042910416146
+
+frequencia =  6120 
+ganho G = 0.9853017084968438 
+Ganho em decibeis = -0.12861528300361702
+
+frequencia =  6130 
+ganho G = 0.9853485767469666 
+Ganho em decibeis = -0.12820212755820815
+
+frequencia =  6140 
+ganho G = 0.9853952228255907 
+Ganho em decibeis = -0.12779095012241926
+
+frequencia =  6150 
+ganho G = 0.985441648124307 
+Ganho em decibeis = -0.12738173815050743
+
+frequencia =  6160 
+ganho G = 0.9854878540239108 
+Ganho em decibeis = -0.12697447919556035
+
+frequencia =  6170 
+ganho G = 0.9855338418945004 
+Ganho em decibeis = -0.12656916090857165
+
+frequencia =  6180 
+ganho G = 0.9855796130955773 
+Ganho em decibeis = -0.12616577103751153
+
+frequencia =  6190 
+ganho G = 0.985625168976141 
+Ganho em decibeis = -0.12576429742643772
+
+frequencia =  6200 
+ganho G = 0.9856705108747883 
+Ganho em decibeis = -0.12536472801457804
+
+frequencia =  6210 
+ganho G = 0.985715640119807 
+Ganho em decibeis = -0.12496705083545018
+
+frequencia =  6220 
+ganho G = 0.9857605580292698 
+Ganho em decibeis = -0.1245712540159903
+
+frequencia =  6230 
+ganho G = 0.9858052659111299 
+Ganho em decibeis = -0.12417732577566448
+
+frequencia =  6240 
+ganho G = 0.9858497650633113 
+Ganho em decibeis = -0.12378525442562736
+
+frequencia =  6250 
+ganho G = 0.985894056773801 
+Ganho em decibeis = -0.12339502836786201
+
+frequencia =  6260 
+ganho G = 0.9859381423207396 
+Ganho em decibeis = -0.1230066360943391
+
+frequencia =  6270 
+ganho G = 0.9859820229725105 
+Ganho em decibeis = -0.1226200661861864
+
+frequencia =  6280 
+ganho G = 0.9860256999878289 
+Ganho em decibeis = -0.12223530731286106
+
+frequencia =  6290 
+ganho G = 0.9860691746158291 
+Ganho em decibeis = -0.121852348231338
+
+frequencia =  6300 
+ganho G = 0.9861124480961512 
+Ganho em decibeis = -0.1214711777853058
+
+frequencia =  6310 
+ganho G = 0.986155521659027 
+Ganho em decibeis = -0.12109178490436437
+
+frequencia =  6320 
+ganho G = 0.986198396525365 
+Ganho em decibeis = -0.12071415860323848
+
+frequencia =  6330 
+ganho G = 0.9862410739068348 
+Ganho em decibeis = -0.12033828798099339
+
+frequencia =  6340 
+ganho G = 0.9862835550059489 
+Ganho em decibeis = -0.11996416222027312
+
+frequencia =  6350 
+ganho G = 0.9863258410161471 
+Ganho em decibeis = -0.11959177058651899
+
+frequencia =  6360 
+ganho G = 0.9863679331218758 
+Ganho em decibeis = -0.11922110242723159
+
+frequencia =  6370 
+ganho G = 0.9864098324986701 
+Ganho em decibeis = -0.11885214717121015
+
+frequencia =  6380 
+ganho G = 0.9864515403132329 
+Ganho em decibeis = -0.11848489432781845
+
+frequencia =  6390 
+ganho G = 0.9864930577235139 
+Ganho em decibeis = -0.11811933348625069
+
+frequencia =  6400 
+ganho G = 0.9865343858787883 
+Ganho em decibeis = -0.11775545431480339
+
+frequencia =  6410 
+ganho G = 0.9865755259197326 
+Ganho em decibeis = -0.11739324656016878
+
+frequencia =  6420 
+ganho G = 0.9866164789785029 
+Ganho em decibeis = -0.11703270004671458
+
+frequencia =  6430 
+ganho G = 0.9866572461788098 
+Ganho em decibeis = -0.11667380467578413
+
+frequencia =  6440 
+ganho G = 0.9866978286359931 
+Ganho em decibeis = -0.11631655042500673
+
+frequencia =  6450 
+ganho G = 0.9867382274570965 
+Ganho em decibeis = -0.11596092734760559
+
+frequencia =  6460 
+ganho G = 0.9867784437409407 
+Ganho em decibeis = -0.11560692557171971
+
+frequencia =  6470 
+ganho G = 0.9868184785781959 
+Ganho em decibeis = -0.11525453529973252
+
+frequencia =  6480 
+ganho G = 0.9868583330514545 
+Ganho em decibeis = -0.11490374680759975
+
+frequencia =  6490 
+ganho G = 0.9868980082353019 
+Ganho em decibeis = -0.1145545504441923
+
+frequencia =  6500 
+ganho G = 0.986937505196386 
+Ganho em decibeis = -0.11420693663065365
+
+frequencia =  6510 
+ganho G = 0.9869768249934885 
+Ganho em decibeis = -0.11386089585973981
+
+frequencia =  6520 
+ganho G = 0.9870159686775929 
+Ganho em decibeis = -0.1135164186951901
+
+frequencia =  6530 
+ganho G = 0.9870549372919537 
+Ganho em decibeis = -0.11317349577108768
+
+frequencia =  6540 
+ganho G = 0.987093731872163 
+Ganho em decibeis = -0.11283211779124293
+
+frequencia =  6550 
+ganho G = 0.9871323534462181 
+Ganho em decibeis = -0.11249227552856748
+
+frequencia =  6560 
+ganho G = 0.9871708030345878 
+Ganho em decibeis = -0.11215395982446245
+
+frequencia =  6570 
+ganho G = 0.9872090816502779 
+Ganho em decibeis = -0.11181716158821374
+
+frequencia =  6580 
+ganho G = 0.987247190298896 
+Ganho em decibeis = -0.11148187179638988
+
+frequencia =  6590 
+ganho G = 0.9872851299787161 
+Ganho em decibeis = -0.11114808149224797
+
+frequencia =  6600 
+ganho G = 0.987322901680742 
+Ganho em decibeis = -0.11081578178514798
+
+frequencia =  6610 
+ganho G = 0.9873605063887705 
+Ganho em decibeis = -0.1104849638499672
+
+frequencia =  6620 
+ganho G = 0.9873979450794538 
+Ganho em decibeis = -0.11015561892652516
+
+frequencia =  6630 
+ganho G = 0.9874352187223608 
+Ganho em decibeis = -0.10982773831901643
+
+frequencia =  6640 
+ganho G = 0.9874723282800392 
+Ganho em decibeis = -0.1095013133954411
+
+frequencia =  6650 
+ganho G = 0.9875092747080745 
+Ganho em decibeis = -0.10917633558705309
+
+frequencia =  6660 
+ganho G = 0.9875460589551519 
+Ganho em decibeis = -0.10885279638779616
+
+frequencia =  6670 
+ganho G = 0.987582681963114 
+Ganho em decibeis = -0.10853068735376759
+
+frequencia =  6680 
+ganho G = 0.9876191446670202 
+Ganho em decibeis = -0.10821000010267257
+
+frequencia =  6690 
+ganho G = 0.9876554479952047 
+Ganho em decibeis = -0.10789072631328464
+
+frequencia =  6700 
+ganho G = 0.9876915928693346 
+Ganho em decibeis = -0.10757285772491533
+
+frequencia =  6710 
+ganho G = 0.9877275802044659 
+Ganho em decibeis = -0.10725638613689592
+
+frequencia =  6720 
+ganho G = 0.9877634109091009 
+Ganho em decibeis = -0.10694130340804762
+
+frequencia =  6730 
+ganho G = 0.9877990858852436 
+Ganho em decibeis = -0.10662760145617095
+
+frequencia =  6740 
+ganho G = 0.987834606028455 
+Ganho em decibeis = -0.1063152722575361
+
+frequencia =  6750 
+ganho G = 0.9878699722279081 
+Ganho em decibeis = -0.10600430784637767
+
+frequencia =  6760 
+ganho G = 0.9879051853664423 
+Ganho em decibeis = -0.10569470031439171
+
+frequencia =  6770 
+ganho G = 0.9879402463206166 
+Ganho em decibeis = -0.1053864418102486
+
+frequencia =  6780 
+ganho G = 0.9879751559607634 
+Ganho em decibeis = -0.10507952453909356
+
+frequencia =  6790 
+ganho G = 0.9880099151510403 
+Ganho em decibeis = -0.10477394076207099
+
+frequencia =  6800 
+ganho G = 0.9880445247494833 
+Ganho em decibeis = -0.10446968279583818
+
+frequencia =  6810 
+ganho G = 0.9880789856080581 
+Ganho em decibeis = -0.10416674301209033
+
+frequencia =  6820 
+ganho G = 0.9881132985727104 
+Ganho em decibeis = -0.1038651138370953
+
+frequencia =  6830 
+ganho G = 0.988147464483418 
+Ganho em decibeis = -0.10356478775121906
+
+frequencia =  6840 
+ganho G = 0.9881814841742396 
+Ganho em decibeis = -0.10326575728847391
+
+frequencia =  6850 
+ganho G = 0.9882153584733653 
+Ganho em decibeis = -0.10296801503605521
+
+frequencia =  6860 
+ganho G = 0.9882490882031654 
+Ganho em decibeis = -0.10267155363389194
+
+frequencia =  6870 
+ganho G = 0.9882826741802393 
+Ganho em decibeis = -0.10237636577419675
+
+frequencia =  6880 
+ganho G = 0.9883161172154639 
+Ganho em decibeis = -0.10208244420102293
+
+frequencia =  6890 
+ganho G = 0.9883494181140405 
+Ganho em decibeis = -0.10178978170982966
+
+frequencia =  6900 
+ganho G = 0.9883825776755434 
+Ganho em decibeis = -0.1014983711470413
+
+frequencia =  6910 
+ganho G = 0.9884155966939653 
+Ganho em decibeis = -0.10120820540962303
+
+frequencia =  6920 
+ganho G = 0.9884484759577652 
+Ganho em decibeis = -0.10091927744464654
+
+frequencia =  6930 
+ganho G = 0.988481216249913 
+Ganho em decibeis = -0.10063158024887774
+
+frequencia =  6940 
+ganho G = 0.988513818347936 
+Ganho em decibeis = -0.10034510686835181
+
+frequencia =  6950 
+ganho G = 0.9885462830239632 
+Ganho em decibeis = -0.1000598503979614
+
+frequencia =  6960 
+ganho G = 0.9885786110447707 
+Ganho em decibeis = -0.09977580398104677
+
+frequencia =  6970 
+ganho G = 0.9886108031718253 
+Ganho em decibeis = -0.09949296080899225
+
+frequencia =  6980 
+ganho G = 0.9886428601613284 
+Ganho em decibeis = -0.09921131412081977
+
+frequencia =  6990 
+ganho G = 0.9886747827642595 
+Ganho em decibeis = -0.09893085720279747
+
+frequencia =  7000 
+ganho G = 0.9887065717264193 
+Ganho em decibeis = -0.09865158338803671
+
+frequencia =  7010 
+ganho G = 0.988738227788472 
+Ganho em decibeis = -0.09837348605610986
+
+frequencia =  7020 
+ganho G = 0.9887697516859872 
+Ganho em decibeis = -0.09809655863266127
+
+frequencia =  7030 
+ganho G = 0.9888011441494824 
+Ganho em decibeis = -0.09782079458902271
+
+frequencia =  7040 
+ganho G = 0.9888324059044634 
+Ganho em decibeis = -0.09754618744183649
+
+frequencia =  7050 
+ganho G = 0.9888635376714665 
+Ganho em decibeis = -0.09727273075267506
+
+frequencia =  7060 
+ganho G = 0.9888945401660972 
+Ganho em decibeis = -0.09700041812768131
+
+frequencia =  7070 
+ganho G = 0.9889254140990725 
+Ganho em decibeis = -0.09672924321718462
+
+frequencia =  7080 
+ganho G = 0.9889561601762591 
+Ganho em decibeis = -0.09645919971534833
+
+frequencia =  7090 
+ganho G = 0.9889867790987136 
+Ganho em decibeis = -0.09619028135980179
+
+frequencia =  7100 
+ganho G = 0.9890172715627213 
+Ganho em decibeis = -0.09592248193128537
+
+frequencia =  7110 
+ganho G = 0.9890476382598351 
+Ganho em decibeis = -0.09565579525329658
+
+frequencia =  7120 
+ganho G = 0.9890778798769135 
+Ganho em decibeis = -0.09539021519173632
+
+frequencia =  7130 
+ganho G = 0.9891079970961589 
+Ganho em decibeis = -0.09512573565456421
+
+frequencia =  7140 
+ganho G = 0.9891379905951548 
+Ganho em decibeis = -0.09486235059145398
+
+frequencia =  7150 
+ganho G = 0.9891678610469037 
+Ganho em decibeis = -0.09460005399344919
+
+frequencia =  7160 
+ganho G = 0.9891976091198634 
+Ganho em decibeis = -0.09433883989262772
+
+frequencia =  7170 
+ganho G = 0.9892272354779836 
+Ganho em decibeis = -0.09407870236177149
+
+frequencia =  7180 
+ganho G = 0.9892567407807427 
+Ganho em decibeis = -0.09381963551402658
+
+frequencia =  7190 
+ganho G = 0.989286125683183 
+Ganho em decibeis = -0.09356163350257989
+
+frequencia =  7200 
+ganho G = 0.9893153908359466 
+Ganho em decibeis = -0.09330469052033523
+
+frequencia =  7210 
+ganho G = 0.9893445368853109 
+Ganho em decibeis = -0.09304880079958469
+
+frequencia =  7220 
+ganho G = 0.9893735644732227 
+Ganho em decibeis = -0.0927939586116995
+
+frequencia =  7230 
+ganho G = 0.9894024742373335 
+Ganho em decibeis = -0.09254015826680463
+
+frequencia =  7240 
+ganho G = 0.9894312668110337 
+Ganho em decibeis = -0.09228739411347012
+
+frequencia =  7250 
+ganho G = 0.9894599428234856 
+Ganho em decibeis = -0.09203566053840338
+
+frequencia =  7260 
+ganho G = 0.9894885028996588 
+Ganho em decibeis = -0.09178495196613219
+
+frequencia =  7270 
+ganho G = 0.9895169476603617 
+Ganho em decibeis = -0.0915352628587139
+
+frequencia =  7280 
+ganho G = 0.9895452777222755 
+Ganho em decibeis = -0.09128658771542245
+
+frequencia =  7290 
+ganho G = 0.9895734936979868 
+Ganho em decibeis = -0.09103892107245606
+
+frequencia =  7300 
+ganho G = 0.9896015961960198 
+Ganho em decibeis = -0.09079225750263636
+
+frequencia =  7310 
+ganho G = 0.9896295858208687 
+Ganho em decibeis = -0.090546591615121
+
+frequencia =  7320 
+ganho G = 0.9896574631730288 
+Ganho em decibeis = -0.09030191805511001
+
+frequencia =  7330 
+ganho G = 0.9896852288490291 
+Ganho em decibeis = -0.09005823150355682
+
+frequencia =  7340 
+ganho G = 0.9897128834414629 
+Ganho em decibeis = -0.08981552667688258
+
+frequencia =  7350 
+ganho G = 0.9897404275390184 
+Ganho em decibeis = -0.08957379832670118
+
+frequencia =  7360 
+ganho G = 0.9897678617265101 
+Ganho em decibeis = -0.08933304123952891
+
+frequencia =  7370 
+ganho G = 0.9897951865849091 
+Ganho em decibeis = -0.08909325023651272
+
+frequencia =  7380 
+ganho G = 0.9898224026913726 
+Ganho em decibeis = -0.08885442017315578
+
+frequencia =  7390 
+ganho G = 0.9898495106192743 
+Ganho em decibeis = -0.08861654593904394
+
+frequencia =  7400 
+ganho G = 0.9898765109382335 
+Ganho em decibeis = -0.08837962245757945
+
+frequencia =  7410 
+ganho G = 0.9899034042141454 
+Ganho em decibeis = -0.08814364468570375
+
+frequencia =  7420 
+ganho G = 0.9899301910092088 
+Ganho em decibeis = -0.08790860761364504
+
+frequencia =  7430 
+ganho G = 0.9899568718819555 
+Ganho em decibeis = -0.08767450626465112
+
+frequencia =  7440 
+ganho G = 0.9899834473872795 
+Ganho em decibeis = -0.08744133569472261
+
+frequencia =  7450 
+ganho G = 0.9900099180764638 
+Ganho em decibeis = -0.08720909099236937
+
+frequencia =  7460 
+ganho G = 0.9900362844972095 
+Ganho em decibeis = -0.08697776727834296
+
+frequencia =  7470 
+ganho G = 0.9900625471936634 
+Ganho em decibeis = -0.08674735970538854
+
+frequencia =  7480 
+ganho G = 0.990088706706445 
+Ganho em decibeis = -0.08651786345799592
+
+frequencia =  7490 
+ganho G = 0.9901147635726741 
+Ganho em decibeis = -0.08628927375214987
+
+frequencia =  7500 
+ganho G = 0.9901407183259983 
+Ganho em decibeis = -0.08606158583508045
+
+frequencia =  7510 
+ganho G = 0.9901665714966187 
+Ganho em decibeis = -0.08583479498502408
+
+frequencia =  7520 
+ganho G = 0.9901923236113171 
+Ganho em decibeis = -0.08560889651098202
+
+frequencia =  7530 
+ganho G = 0.9902179751934825 
+Ganho em decibeis = -0.08538388575247684
+
+frequencia =  7540 
+ganho G = 0.9902435267631365 
+Ganho em decibeis = -0.0851597580793188
+
+frequencia =  7550 
+ganho G = 0.9902689788369596 
+Ganho em decibeis = -0.08493650889136935
+
+frequencia =  7560 
+ganho G = 0.9902943319283168 
+Ganho em decibeis = -0.08471413361830686
+
+frequencia =  7570 
+ganho G = 0.9903195865472828 
+Ganho em decibeis = -0.08449262771939803
+
+frequencia =  7580 
+ganho G = 0.9903447432006669 
+Ganho em decibeis = -0.08427198668326966
+
+frequencia =  7590 
+ganho G = 0.9903698023920385 
+Ganho em decibeis = -0.08405220602767838
+
+frequencia =  7600 
+ganho G = 0.9903947646217517 
+Ganho em decibeis = -0.08383328129928738
+
+frequencia =  7610 
+ganho G = 0.9904196303869689 
+Ganho em decibeis = -0.08361520807344829
+
+frequencia =  7620 
+ganho G = 0.9904444001816866 
+Ganho em decibeis = -0.08339798195397095
+
+frequencia =  7630 
+ganho G = 0.9904690744967579 
+Ganho em decibeis = -0.08318159857291432
+
+frequencia =  7640 
+ganho G = 0.9904936538199177 
+Ganho em decibeis = -0.08296605359036259
+
+frequencia =  7650 
+ganho G = 0.9905181386358052 
+Ganho em decibeis = -0.08275134269421593
+
+frequencia =  7660 
+ganho G = 0.990542529425988 
+Ganho em decibeis = -0.08253746159997269
+
+frequencia =  7670 
+ganho G = 0.990566826668985 
+Ganho em decibeis = -0.08232440605052244
+
+frequencia =  7680 
+ganho G = 0.9905910308402899 
+Ganho em decibeis = -0.08211217181593213
+
+frequencia =  7690 
+ganho G = 0.9906151424123933 
+Ganho em decibeis = -0.08190075469324319
+
+frequencia =  7700 
+ganho G = 0.9906391618548059 
+Ganho em decibeis = -0.08169015050626476
+
+frequencia =  7710 
+ganho G = 0.9906630896340807 
+Ganho em decibeis = -0.08148035510536794
+
+frequencia =  7720 
+ganho G = 0.9906869262138347 
+Ganho em decibeis = -0.08127136436728903
+
+frequencia =  7730 
+ganho G = 0.9907106720547723 
+Ganho em decibeis = -0.08106317419492098
+
+frequencia =  7740 
+ganho G = 0.9907343276147056 
+Ganho em decibeis = -0.08085578051712364
+
+frequencia =  7750 
+ganho G = 0.9907578933485771 
+Ganho em decibeis = -0.08064917928852208
+
+frequencia =  7760 
+ganho G = 0.9907813697084805 
+Ganho em decibeis = -0.08044336648931522
+
+frequencia =  7770 
+ganho G = 0.9908047571436828 
+Ganho em decibeis = -0.08023833812507626
+
+frequencia =  7780 
+ganho G = 0.9908280561006441 
+Ganho em decibeis = -0.08003409022657099
+
+frequencia =  7790 
+ganho G = 0.9908512670230397 
+Ganho em decibeis = -0.07983061884955948
+
+frequencia =  7800 
+ganho G = 0.9908743903517804 
+Ganho em decibeis = -0.07962792007461277
+
+frequencia =  7810 
+ganho G = 0.9908974265250329 
+Ganho em decibeis = -0.07942599000692324
+
+frequencia =  7820 
+ganho G = 0.9909203759782402 
+Ganho em decibeis = -0.07922482477612336
+
+frequencia =  7830 
+ganho G = 0.9909432391441422 
+Ganho em decibeis = -0.07902442053609943
+
+frequencia =  7840 
+ganho G = 0.990966016452795 
+Ganho em decibeis = -0.07882477346481112
+
+frequencia =  7850 
+ganho G = 0.9909887083315916 
+Ganho em decibeis = -0.0786258797641114
+
+frequencia =  7860 
+ganho G = 0.9910113152052809 
+Ganho em decibeis = -0.07842773565956716
+
+frequencia =  7870 
+ganho G = 0.9910338374959872 
+Ganho em decibeis = -0.07823033740028604
+
+frequencia =  7880 
+ganho G = 0.9910562756232303 
+Ganho em decibeis = -0.07803368125873433
+
+frequencia =  7890 
+ganho G = 0.9910786300039439 
+Ganho em decibeis = -0.07783776353056873
+
+frequencia =  7900 
+ganho G = 0.9911009010524949 
+Ganho em decibeis = -0.07764258053446228
+
+frequencia =  7910 
+ganho G = 0.9911230891807021 
+Ganho em decibeis = -0.07744812861193423
+
+frequencia =  7920 
+ganho G = 0.9911451947978555 
+Ganho em decibeis = -0.07725440412717612
+
+frequencia =  7930 
+ganho G = 0.9911672183107335 
+Ganho em decibeis = -0.07706140346689251
+
+frequencia =  7940 
+ganho G = 0.9911891601236231 
+Ganho em decibeis = -0.07686912304012429
+
+frequencia =  7950 
+ganho G = 0.9912110206383365 
+Ganho em decibeis = -0.07667755927809235
+
+frequencia =  7960 
+ganho G = 0.9912328002542301 
+Ganho em decibeis = -0.07648670863402887
+
+frequencia =  7970 
+ganho G = 0.991254499368222 
+Ganho em decibeis = -0.07629656758301634
+
+frequencia =  7980 
+ganho G = 0.9912761183748098 
+Ganho em decibeis = -0.07610713262182763
+
+frequencia =  7990 
+ganho G = 0.9912976576660886 
+Ganho em decibeis = -0.07591840026876412
+
+frequencia =  8000 
+ganho G = 0.9913191176317678 
+Ganho em decibeis = -0.07573036706350084
+
+frequencia =  8010 
+ganho G = 0.9913404986591892 
+Ganho em decibeis = -0.07554302956692668
+
+frequencia =  8020 
+ganho G = 0.9913618011333432 
+Ganho em decibeis = -0.07535638436099153
+
+frequencia =  8030 
+ganho G = 0.9913830254368868 
+Ganho em decibeis = -0.07517042804854852
+
+frequencia =  8040 
+ganho G = 0.99140417195016 
+Ganho em decibeis = -0.0749851572532063
+
+frequencia =  8050 
+ganho G = 0.9914252410512021 
+Ganho em decibeis = -0.07480056861917417
+
+frequencia =  8060 
+ganho G = 0.9914462331157695 
+Ganho em decibeis = -0.07461665881111057
+
+frequencia =  8070 
+ganho G = 0.9914671485173508 
+Ganho em decibeis = -0.07443342451397915
+
+frequencia =  8080 
+ganho G = 0.9914879876271845 
+Ganho em decibeis = -0.07425086243289336
+
+frequencia =  8090 
+ganho G = 0.9915087508142735 
+Ganho em decibeis = -0.07406896929298049
+
+frequencia =  8100 
+ganho G = 0.991529438445403 
+Ganho em decibeis = -0.07388774183922434
+
+frequencia =  8110 
+ganho G = 0.9915500508851547 
+Ganho em decibeis = -0.07370717683633429
+
+frequencia =  8120 
+ganho G = 0.9915705884959242 
+Ganho em decibeis = -0.07352727106858911
+
+frequencia =  8130 
+ganho G = 0.9915910516379353 
+Ganho em decibeis = -0.07334802133970596
+
+frequencia =  8140 
+ganho G = 0.9916114406692563 
+Ganho em decibeis = -0.0731694244726941
+
+frequencia =  8150 
+ganho G = 0.9916317559458151 
+Ganho em decibeis = -0.07299147730972026
+
+frequencia =  8160 
+ganho G = 0.9916519978214146 
+Ganho em decibeis = -0.07281417671196519
+
+frequencia =  8170 
+ganho G = 0.9916721666477477 
+Ganho em decibeis = -0.07263751955949004
+
+frequencia =  8180 
+ganho G = 0.9916922627744126 
+Ganho em decibeis = -0.072461502751101
+
+frequencia =  8190 
+ganho G = 0.9917122865489273 
+Ganho em decibeis = -0.0722861232042128
+
+frequencia =  8200 
+ganho G = 0.9917322383167443 
+Ganho em decibeis = -0.07211137785472005
+
+frequencia =  8210 
+ganho G = 0.9917521184212662 
+Ganho em decibeis = -0.07193726365685428
+
+frequencia =  8220 
+ganho G = 0.9917719272038591 
+Ganho em decibeis = -0.07176377758306407
+
+frequencia =  8230 
+ganho G = 0.9917916650038673 
+Ganho em decibeis = -0.07159091662388083
+
+frequencia =  8240 
+ganho G = 0.991811332158628 
+Ganho em decibeis = -0.07141867778778643
+
+frequencia =  8250 
+ganho G = 0.991830929003485 
+Ganho em decibeis = -0.07124705810109175
+
+frequencia =  8260 
+ganho G = 0.9918504558718034 
+Ganho em decibeis = -0.07107605460779953
+
+frequencia =  8270 
+ganho G = 0.9918699130949825 
+Ganho em decibeis = -0.0709056643694917
+
+frequencia =  8280 
+ganho G = 0.9918893010024704 
+Ganho em decibeis = -0.07073588446519533
+
+frequencia =  8290 
+ganho G = 0.9919086199217781 
+Ganho em decibeis = -0.07056671199125628
+
+frequencia =  8300 
+ganho G = 0.9919278701784915 
+Ganho em decibeis = -0.07039814406123164
+
+frequencia =  8310 
+ganho G = 0.991947052096287 
+Ganho em decibeis = -0.07023017780574596
+
+frequencia =  8320 
+ganho G = 0.9919661659969429 
+Ganho em decibeis = -0.07006281037239143
+
+frequencia =  8330 
+ganho G = 0.9919852122003544 
+Ganho em decibeis = -0.06989603892559103
+
+frequencia =  8340 
+ganho G = 0.9920041910245454 
+Ganho em decibeis = -0.06972986064649306
+
+frequencia =  8350 
+ganho G = 0.9920231027856823 
+Ganho em decibeis = -0.069564272732845
+
+frequencia =  8360 
+ganho G = 0.9920419477980865 
+Ganho em decibeis = -0.06939927239888126
+
+frequencia =  8370 
+ganho G = 0.9920607263742484 
+Ganho em decibeis = -0.06923485687519912
+
+frequencia =  8380 
+ganho G = 0.9920794388248378 
+Ganho em decibeis = -0.06907102340865919
+
+frequencia =  8390 
+ganho G = 0.9920980854587195 
+Ganho em decibeis = -0.06890776926225367
+
+frequencia =  8400 
+ganho G = 0.9921166665829633 
+Ganho em decibeis = -0.06874509171500584
+
+frequencia =  8410 
+ganho G = 0.9921351825028578 
+Ganho em decibeis = -0.0685829880618531
+
+frequencia =  8420 
+ganho G = 0.9921536335219225 
+Ganho em decibeis = -0.06842145561353571
+
+frequencia =  8430 
+ganho G = 0.9921720199419201 
+Ganho em decibeis = -0.06826049169648576
+
+frequencia =  8440 
+ganho G = 0.9921903420628678 
+Ganho em decibeis = -0.06810009365272189
+
+frequencia =  8450 
+ganho G = 0.9922086001830511 
+Ganho em decibeis = -0.06794025883973247
+
+frequencia =  8460 
+ganho G = 0.9922267945990338 
+Ganho em decibeis = -0.06778098463037809
+
+frequencia =  8470 
+ganho G = 0.9922449256056709 
+Ganho em decibeis = -0.06762226841277974
+
+frequencia =  8480 
+ganho G = 0.9922629934961203 
+Ganho em decibeis = -0.06746410759020977
+
+frequencia =  8490 
+ganho G = 0.9922809985618548 
+Ganho em decibeis = -0.06730649958098872
+
+frequencia =  8500 
+ganho G = 0.9922989410926724 
+Ganho em decibeis = -0.06714944181838714
+
+frequencia =  8510 
+ganho G = 0.9923168213767092 
+Ganho em decibeis = -0.0669929317505118
+
+frequencia =  8520 
+ganho G = 0.99233463970045 
+Ganho em decibeis = -0.06683696684021145
+
+frequencia =  8530 
+ganho G = 0.9923523963487395 
+Ganho em decibeis = -0.06668154456497374
+
+frequencia =  8540 
+ganho G = 0.9923700916047943 
+Ganho em decibeis = -0.0665266624168185
+
+frequencia =  8550 
+ganho G = 0.9923877257502132 
+Ganho em decibeis = -0.06637231790220342
+
+frequencia =  8560 
+ganho G = 0.9924052990649885 
+Ganho em decibeis = -0.06621850854192314
+
+frequencia =  8570 
+ganho G = 0.9924228118275172 
+Ganho em decibeis = -0.0660652318710103
+
+frequencia =  8580 
+ganho G = 0.9924402643146116 
+Ganho em decibeis = -0.06591248543863654
+
+frequencia =  8590 
+ganho G = 0.9924576568015098 
+Ganho em decibeis = -0.06576026680802037
+
+frequencia =  8600 
+ganho G = 0.992474989561887 
+Ganho em decibeis = -0.06560857355632348
+
+frequencia =  8610 
+ganho G = 0.9924922628678654 
+Ganho em decibeis = -0.06545740327456344
+
+frequencia =  8620 
+ganho G = 0.992509476990026 
+Ganho em decibeis = -0.06530675356750815
+
+frequencia =  8630 
+ganho G = 0.9925266321974168 
+Ganho em decibeis = -0.06515662205359933
+
+frequencia =  8640 
+ganho G = 0.9925437287575655 
+Ganho em decibeis = -0.06500700636483918
+
+frequencia =  8650 
+ganho G = 0.9925607669364888 
+Ganho em decibeis = -0.06485790414670815
+
+frequencia =  8660 
+ganho G = 0.9925777469987015 
+Ganho em decibeis = -0.06470931305808077
+
+frequencia =  8670 
+ganho G = 0.9925946692072292 
+Ganho em decibeis = -0.06456123077111434
+
+frequencia =  8680 
+ganho G = 0.9926115338236151 
+Ganho em decibeis = -0.0644136549711833
+
+frequencia =  8690 
+ganho G = 0.9926283411079333 
+Ganho em decibeis = -0.06426658335676504
+
+frequencia =  8700 
+ganho G = 0.9926450913187957 
+Ganho em decibeis = -0.06412001363937235
+
+frequencia =  8710 
+ganho G = 0.9926617847133639 
+Ganho em decibeis = -0.06397394354345196
+
+frequencia =  8720 
+ganho G = 0.9926784215473579 
+Ganho em decibeis = -0.06382837080629952
+
+frequencia =  8730 
+ganho G = 0.992695002075066 
+Ganho em decibeis = -0.0636832931779767
+
+frequencia =  8740 
+ganho G = 0.992711526549354 
+Ganho em decibeis = -0.06353870842122615
+
+frequencia =  8750 
+ganho G = 0.992727995221676 
+Ganho em decibeis = -0.0633946143113741
+
+frequencia =  8760 
+ganho G = 0.992744408342082 
+Ganho em decibeis = -0.06325100863626096
+
+frequencia =  8770 
+ganho G = 0.9927607661592285 
+Ganho em decibeis = -0.06310788919614878
+
+frequencia =  8780 
+ganho G = 0.9927770689203872 
+Ganho em decibeis = -0.0629652538036403
+
+frequencia =  8790 
+ganho G = 0.9927933168714547 
+Ganho em decibeis = -0.0628231002835941
+
+frequencia =  8800 
+ganho G = 0.9928095102569613 
+Ganho em decibeis = -0.06268142647304287
+
+frequencia =  8810 
+ganho G = 0.9928256493200797 
+Ganho em decibeis = -0.06254023022111825
+
+frequencia =  8820 
+ganho G = 0.9928417343026351 
+Ganho em decibeis = -0.06239950938895649
+
+frequencia =  8830 
+ganho G = 0.992857765445113 
+Ganho em decibeis = -0.06225926184963316
+
+frequencia =  8840 
+ganho G = 0.9928737429866688 
+Ganho em decibeis = -0.062119485488070676
+
+frequencia =  8850 
+ganho G = 0.9928896671651357 
+Ganho em decibeis = -0.06198017820097218
+
+frequencia =  8860 
+ganho G = 0.9929055382170346 
+Ganho em decibeis = -0.06184133789673192
+
+frequencia =  8870 
+ganho G = 0.9929213563775822 
+Ganho em decibeis = -0.06170296249536149
+
+frequencia =  8880 
+ganho G = 0.992937121880699 
+Ganho em decibeis = -0.06156504992841484
+
+frequencia =  8890 
+ganho G = 0.9929528349590189 
+Ganho em decibeis = -0.06142759813891056
+
+frequencia =  8900 
+ganho G = 0.9929684958438969 
+Ganho em decibeis = -0.06129060508125217
+
+frequencia =  8910 
+ganho G = 0.9929841047654178 
+Ganho em decibeis = -0.06115406872115918
+
+frequencia =  8920 
+ganho G = 0.9929996619524043 
+Ganho em decibeis = -0.06101798703558741
+
+frequencia =  8930 
+ganho G = 0.993015167632426 
+Ganho em decibeis = -0.060882358012653265
+
+frequencia =  8940 
+ganho G = 0.9930306220318064 
+Ganho em decibeis = -0.06074717965156871
+
+frequencia =  8950 
+ganho G = 0.9930460253756316 
+Ganho em decibeis = -0.06061244996256065
+
+frequencia =  8960 
+ganho G = 0.9930613778877591 
+Ganho em decibeis = -0.06047816696679732
+
+frequencia =  8970 
+ganho G = 0.9930766797908246 
+Ganho em decibeis = -0.06034432869632224
+
+frequencia =  8980 
+ganho G = 0.993091931306251 
+Ganho em decibeis = -0.06021093319397759
+
+frequencia =  8990 
+ganho G = 0.9931071326542552 
+Ganho em decibeis = -0.06007797851333839
+
+frequencia =  9000 
+ganho G = 0.9931222840538575 
+Ganho em decibeis = -0.05994546271863392
+
+frequencia =  9010 
+ganho G = 0.9931373857228875 
+Ganho em decibeis = -0.059813383884689625
+
+frequencia =  9020 
+ganho G = 0.9931524378779929 
+Ganho em decibeis = -0.059681740096849636
+
+frequencia =  9030 
+ganho G = 0.9931674407346478 
+Ganho em decibeis = -0.05955052945090507
+
+frequencia =  9040 
+ganho G = 0.9931823945071587 
+Ganho em decibeis = -0.05941975005303601
+
+frequencia =  9050 
+ganho G = 0.9931972994086733 
+Ganho em decibeis = -0.05928940001973602
+
+frequencia =  9060 
+ganho G = 0.9932121556511874 
+Ganho em decibeis = -0.059159477477747226
+
+frequencia =  9070 
+ganho G = 0.9932269634455523 
+Ganho em decibeis = -0.05902998056399569
+
+frequencia =  9080 
+ganho G = 0.9932417230014832 
+Ganho em decibeis = -0.05890090742551678
+
+frequencia =  9090 
+ganho G = 0.9932564345275645 
+Ganho em decibeis = -0.05877225621940505
+
+frequencia =  9100 
+ganho G = 0.9932710982312589 
+Ganho em decibeis = -0.05864402511273588
+
+frequencia =  9110 
+ganho G = 0.9932857143189143 
+Ganho em decibeis = -0.058516212282500785
+
+frequencia =  9120 
+ganho G = 0.9933002829957703 
+Ganho em decibeis = -0.05838881591555041
+
+frequencia =  9130 
+ganho G = 0.9933148044659655 
+Ganho em decibeis = -0.05826183420852893
+
+frequencia =  9140 
+ganho G = 0.9933292789325449 
+Ganho em decibeis = -0.0581352653678084
+
+frequencia =  9150 
+ganho G = 0.9933437065974664 
+Ganho em decibeis = -0.05800910760942694
+
+frequencia =  9160 
+ganho G = 0.9933580876616087 
+Ganho em decibeis = -0.057883359159024185
+
+frequencia =  9170 
+ganho G = 0.993372422324777 
+Ganho em decibeis = -0.05775801825178534
+
+frequencia =  9180 
+ganho G = 0.9933867107857105 
+Ganho em decibeis = -0.05763308313237367
+
+frequencia =  9190 
+ganho G = 0.9934009532420892 
+Ganho em decibeis = -0.057508552054873666
+
+frequencia =  9200 
+ganho G = 0.9934151498905407 
+Ganho em decibeis = -0.05738442328272647
+
+frequencia =  9210 
+ganho G = 0.9934293009266459 
+Ganho em decibeis = -0.057260695088678884
+
+frequencia =  9220 
+ganho G = 0.9934434065449476 
+Ganho em decibeis = -0.05713736575471012
+
+frequencia =  9230 
+ganho G = 0.9934574669389554 
+Ganho em decibeis = -0.05701443357198083
+
+frequencia =  9240 
+ganho G = 0.9934714823011529 
+Ganho em decibeis = -0.0568918968407773
+
+frequencia =  9250 
+ganho G = 0.993485452823004 
+Ganho em decibeis = -0.05676975387044697
+
+frequencia =  9260 
+ganho G = 0.9934993786949596 
+Ganho em decibeis = -0.056648002979344664
+
+frequencia =  9270 
+ganho G = 0.9935132601064638 
+Ganho em decibeis = -0.05652664249477284
+
+frequencia =  9280 
+ganho G = 0.9935270972459608 
+Ganho em decibeis = -0.05640567075292113
+
+frequencia =  9290 
+ganho G = 0.9935408903008998 
+Ganho em decibeis = -0.056285086098823225
+
+frequencia =  9300 
+ganho G = 0.9935546394577431 
+Ganho em decibeis = -0.05616488688628264
+
+frequencia =  9310 
+ganho G = 0.9935683449019711 
+Ganho em decibeis = -0.056045071477831734
+
+frequencia =  9320 
+ganho G = 0.9935820068180887 
+Ganho em decibeis = -0.05592563824466813
+
+frequencia =  9330 
+ganho G = 0.9935956253896316 
+Ganho em decibeis = -0.055806585566604006
+
+frequencia =  9340 
+ganho G = 0.9936092007991725 
+Ganho em decibeis = -0.05568791183200847
+
+frequencia =  9350 
+ganho G = 0.9936227332283267 
+Ganho em decibeis = -0.055569615437754835
+
+frequencia =  9360 
+ganho G = 0.9936362228577589 
+Ganho em decibeis = -0.055451694789165965
+
+frequencia =  9370 
+ganho G = 0.9936496698671874 
+Ganho em decibeis = -0.05533414829996937
+
+frequencia =  9380 
+ganho G = 0.9936630744353926 
+Ganho em decibeis = -0.055216974392227024
+
+frequencia =  9390 
+ganho G = 0.9936764367402207 
+Ganho em decibeis = -0.05510017149629922
+
+frequencia =  9400 
+ganho G = 0.9936897569585902 
+Ganho em decibeis = -0.054983738050786046
+
+frequencia =  9410 
+ganho G = 0.9937030352664986 
+Ganho em decibeis = -0.054867672502469926
+
+frequencia =  9420 
+ganho G = 0.9937162718390262 
+Ganho em decibeis = -0.05475197330627947
+
+frequencia =  9430 
+ganho G = 0.993729466850344 
+Ganho em decibeis = -0.05463663892521938
+
+frequencia =  9440 
+ganho G = 0.9937426204737174 
+Ganho em decibeis = -0.05452166783033724
+
+frequencia =  9450 
+ganho G = 0.9937557328815133 
+Ganho em decibeis = -0.05440705850066028
+
+frequencia =  9460 
+ganho G = 0.9937688042452049 
+Ganho em decibeis = -0.05429280942315243
+
+frequencia =  9470 
+ganho G = 0.993781834735377 
+Ganho em decibeis = -0.05417891909266569
+
+frequencia =  9480 
+ganho G = 0.9937948245217323 
+Ganho em decibeis = -0.054065386011885555
+
+frequencia =  9490 
+ganho G = 0.9938077737730966 
+Ganho em decibeis = -0.05395220869128436
+
+frequencia =  9500 
+ganho G = 0.9938206826574237 
+Ganho em decibeis = -0.05383938564907549
+
+frequencia =  9510 
+ganho G = 0.9938335513418014 
+Ganho em decibeis = -0.05372691541116277
+
+frequencia =  9520 
+ganho G = 0.9938463799924562 
+Ganho em decibeis = -0.053614796511094805
+
+frequencia =  9530 
+ganho G = 0.9938591687747597 
+Ganho em decibeis = -0.05350302749001042
+
+frequencia =  9540 
+ganho G = 0.9938719178532323 
+Ganho em decibeis = -0.05339160689660473
+
+frequencia =  9550 
+ganho G = 0.9938846273915497 
+Ganho em decibeis = -0.05328053328707072
+
+frequencia =  9560 
+ganho G = 0.9938972975525479 
+Ganho em decibeis = -0.05316980522505652
+
+frequencia =  9570 
+ganho G = 0.9939099284982277 
+Ganho em decibeis = -0.05305942128162072
+
+frequencia =  9580 
+ganho G = 0.9939225203897607 
+Ganho em decibeis = -0.05294938003518373
+
+frequencia =  9590 
+ganho G = 0.9939350733874929 
+Ganho em decibeis = -0.05283968007149287
+
+frequencia =  9600 
+ganho G = 0.9939475876509521 
+Ganho em decibeis = -0.052730319983555304
+
+frequencia =  9610 
+ganho G = 0.9939600633388503 
+Ganho em decibeis = -0.052621298371620634
+
+frequencia =  9620 
+ganho G = 0.9939725006090911 
+Ganho em decibeis = -0.05251261384310997
+
+frequencia =  9630 
+ganho G = 0.9939848996187723 
+Ganho em decibeis = -0.05240426501259557
+
+frequencia =  9640 
+ganho G = 0.993997260524193 
+Ganho em decibeis = -0.0522962505017368
+
+frequencia =  9650 
+ganho G = 0.9940095834808567 
+Ganho em decibeis = -0.052188568939252014
+
+frequencia =  9660 
+ganho G = 0.9940218686434771 
+Ganho em decibeis = -0.05208121896086614
+
+frequencia =  9670 
+ganho G = 0.9940341161659825 
+Ganho em decibeis = -0.05197419920927388
+
+frequencia =  9680 
+ganho G = 0.9940463262015211 
+Ganho em decibeis = -0.051867508334089256
+
+frequencia =  9690 
+ganho G = 0.994058498902465 
+Ganho em decibeis = -0.051761144991812676
+
+frequencia =  9700 
+ganho G = 0.9940706344204153 
+Ganho em decibeis = -0.05165510784578247
+
+frequencia =  9710 
+ganho G = 0.994082732906207 
+Ganho em decibeis = -0.05154939556613422
+
+frequencia =  9720 
+ganho G = 0.9940947945099126 
+Ganho em decibeis = -0.05144400682976488
+
+frequencia =  9730 
+ganho G = 0.9941068193808482 
+Ganho em decibeis = -0.05133894032028151
+
+frequencia =  9740 
+ganho G = 0.9941188076675769 
+Ganho em decibeis = -0.05123419472797118
+
+frequencia =  9750 
+ganho G = 0.994130759517914 
+Ganho em decibeis = -0.05112976874975073
+
+frequencia =  9760 
+ganho G = 0.9941426750789312 
+Ganho em decibeis = -0.051025661089132805
+
+frequencia =  9770 
+ganho G = 0.9941545544969603 
+Ganho em decibeis = -0.050921870456191114
+
+frequencia =  9780 
+ganho G = 0.9941663979175999 
+Ganho em decibeis = -0.050818395567503276
+
+frequencia =  9790 
+ganho G = 0.9941782054857169 
+Ganho em decibeis = -0.05071523514613155
+
+frequencia =  9800 
+ganho G = 0.9941899773454533 
+Ganho em decibeis = -0.05061238792156861
+
+frequencia =  9810 
+ganho G = 0.9942017136402295 
+Ganho em decibeis = -0.05050985262970573
+
+frequencia =  9820 
+ganho G = 0.9942134145127479 
+Ganho em decibeis = -0.05040762801279699
+
+frequencia =  9830 
+ganho G = 0.9942250801049992 
+Ganho em decibeis = -0.05030571281940995
+
+frequencia =  9840 
+ganho G = 0.9942367105582642 
+Ganho em decibeis = -0.05020410580440353
+
+frequencia =  9850 
+ganho G = 0.9942483060131203 
+Ganho em decibeis = -0.050102805728873864
+
+frequencia =  9860 
+ganho G = 0.9942598666094435 
+Ganho em decibeis = -0.050001811360133055
+
+frequencia =  9870 
+ganho G = 0.9942713924864153 
+Ganho em decibeis = -0.04990112147165226
+
+frequencia =  9880 
+ganho G = 0.994282883782524 
+Ganho em decibeis = -0.04980073484304329
+
+frequencia =  9890 
+ganho G = 0.9942943406355703 
+Ganho em decibeis = -0.04970065026001724
+
+frequencia =  9900 
+ganho G = 0.9943057631826716 
+Ganho em decibeis = -0.049600866514338045
+
+frequencia =  9910 
+ganho G = 0.9943171515602653 
+Ganho em decibeis = -0.04950138240379749
+
+frequencia =  9920 
+ganho G = 0.994328505904113 
+Ganho em decibeis = -0.04940219673217763
+
+frequencia =  9930 
+ganho G = 0.9943398263493055 
+Ganho em decibeis = -0.04930330830920441
+
+frequencia =  9940 
+ganho G = 0.9943511130302646 
+Ganho em decibeis = -0.04920471595053239
+
+frequencia =  9950 
+ganho G = 0.9943623660807493 
+Ganho em decibeis = -0.049106418477688756
+
+frequencia =  9960 
+ganho G = 0.9943735856338586 
+Ganho em decibeis = -0.04900841471805217
+
+frequencia =  9970 
+ganho G = 0.9943847718220356 
+Ganho em decibeis = -0.048910703504809444
+
+frequencia =  9980 
+ganho G = 0.9943959247770708 
+Ganho em decibeis = -0.048813283676930504
+
+frequencia =  9990 
+ganho G = 0.9944070446301074 
+Ganho em decibeis = -0.048716154079123115
+
+frequencia =  10000 
+ganho G = 0.9944181315116436 
+Ganho em decibeis = -0.04861931356180696
+
