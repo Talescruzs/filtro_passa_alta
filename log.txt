@@ -2,7 +2,7 @@ frequancia de corte e: 1061.032953945969 hertz
 
 frequencia =  0 
 ganho G = 0.0 
-nao e possivel tirar os decibeis deste ganho
+Ocorre uma atenuação total do sinal
 
 frequencia =  10 
 ganho G = 0.009424359403918175 
